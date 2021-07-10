@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&display=swap');
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 
+}
+
+body {
+    font-family:"Montserrat", sans-serif;
 }
 
 .logo {
@@ -12,7 +18,7 @@
 
 .logo img {
     float: left;
-    width: 150px;
+    width: 200px;
     height: 120px;
     margin: 10px 0 0 30px;
     cursor: pointer;
@@ -30,9 +36,37 @@
 
 .logo li i {
     font-size: 25px;
-    color: black;
+    color: rgb(66, 66, 66);
 }
 
 .logo li a:hover {
     border-bottom: 2px solid #00adb5;
+}
+
+.navbar ul {
+    width: 100%;
+    height: 40px;
+    background-color:rgb(66, 66, 66) ;
+    margin-top: 25px;
+}
+
+.navbar li {
+    float: left;
+    margin-left: 100px;
+    list-style: none;
+    line-height: 40px;
+    letter-spacing: 1px;
+
+}
+
+.navbar li a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar li a:hover {
+    color:#00adb5; ;
+    border-bottom:2px solid #00adb5; ;
 }
