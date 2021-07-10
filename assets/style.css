@@ -70,3 +70,41 @@ body {
     color:#00adb5; ;
     border-bottom:2px solid #00adb5; ;
 }
+
+.main-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+}
+
+.main-img img {
+    float: right;
+    width: 600px;
+    height: auto;
+    margin-right: 50px;
+    border-radius: 100px;
+    
+    
+}
+
+.right-side {
+    float: left;
+    width: 33%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+.right-side  h1 {
+    font-size: 50px;
+    letter-spacing: 5px;
+    padding-bottom: 75px;
+    
+}
+
+
+.right-side  p {
+    font-family: "Open+Sans", sans-serif;
+    letter-spacing: 1px;
+    
+}
