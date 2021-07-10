@@ -2,13 +2,14 @@
 
 * {
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     box-sizing: border-box;
 
 }
 
 body {
     font-family:"Montserrat", sans-serif;
+    width: 100%;
 }
 
 .logo {
@@ -28,10 +29,12 @@ body {
     float: right;
     list-style: none;
     margin-right: 100px;
+    
 }
 
 .logo li a {
     line-height: 100px;
+    
 }
 
 .logo li i {
@@ -44,10 +47,11 @@ body {
 }
 
 .navbar ul {
-    width: 100%;
+    width: 95%;
     height: 40px;
     background-color:rgb(66, 66, 66) ;
     margin-top: 25px;
+    border-radius: 25px;
 }
 
 .navbar li {
@@ -116,6 +120,7 @@ footer {
     background-color: rgb(66, 66, 66);
     width: 100%;
     height: 75px;
+    
 }
 
 .top-footer ul li {
@@ -150,4 +155,9 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
     margin-top: 10px;
     font-size: 12px;
+}
+
+.content1 {
+    width: 100%;
+
 }
