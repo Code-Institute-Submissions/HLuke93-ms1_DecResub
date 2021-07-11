@@ -183,9 +183,9 @@ font-family: "Montserrat", sans-serif;
     float: left;
     width: 380px;
     height: 350px;
-    margin-left: 0px;
+    margin-left: 10px;
     margin-top: 100px;
-    border-radius: 10%;
+    border-radius: 50%;
     padding:10px;
    
 
@@ -212,6 +212,7 @@ font-family: "Montserrat", sans-serif;
     font-weight: 900;
     font-size: 20px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 .right-content h1 {
@@ -220,6 +221,7 @@ font-family: "Montserrat", sans-serif;
     font-weight: 900;
     font-size: 20px;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 #price {
