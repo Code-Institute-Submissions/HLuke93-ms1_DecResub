@@ -273,7 +273,7 @@ hr {
 
 #meetup-map {
     width: 700px;
-    height: 380px;
+    height: 420px;
 } 
 
 .rightmap {
@@ -302,7 +302,7 @@ hr {
 
 .textmap img {
     width: 400px;
-    height: auto;
+    height: 230px;
     border-radius: 20px;
 }
 
