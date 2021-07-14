@@ -72,6 +72,7 @@ body {
     text-decoration: none;
     font-weight: 700;
     display: block;
+    margin-right: 40px;
 }
 
 .navbar li a:hover {
@@ -348,7 +349,7 @@ hr {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    left: 6%;
     padding: 30px;
     border-radius: 20%;
 }
@@ -393,7 +394,7 @@ hr {
     float: right;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    margin: 50px 10px 0 0;
+    margin: 50px 6% 0 0;
     border-radius: 20%;
 }
 
