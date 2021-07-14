@@ -312,9 +312,11 @@ hr {
 
 .textmap h1 {
     font-size: 35px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
 }
+
+
 
 .textmap p {
     font-size: 15px;
@@ -394,7 +396,7 @@ hr {
     float: right;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    margin: 50px 6% 0 0;
+    margin: 50px 10px 0 0;
     border-radius: 20%;
 }
 
