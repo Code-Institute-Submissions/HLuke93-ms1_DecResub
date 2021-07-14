@@ -418,6 +418,68 @@ hr {
 
 }
 
+@media screen and (max-width: 1270px){
+
+    
+    .textmap {
+        float: left;
+    }
+}
+
+@media screen and (max-width: 950px){
+
+    body {
+        width: 65%;
+    }
+
+    #gallery {
+        column-count: 2;
+    }
+
+    .navbar li a {
+        margin-right: 0;
+    }
+
+    .logo li {
+        display: none;
+    }
+
+    .right-side {
+        width: 100%;
+    }
+
+    
+.right-content {
+    
+    width: 100%;
+    margin: 0;
+   
+}
+
+.left-content {
+    width: 100%;
+    margin: 0;
+    
+} 
+
+#price {
+    margin-top: 70px;
+}
+
+#logo-mid {
+   margin-left: 15%;
+  
+}
+
+  
+    
+    
+
+    
+
+   
+}
+
 
 
 
