@@ -25,25 +25,30 @@ body {
     cursor: pointer;
 }
 
-.logo li {
+.social {
+    float: right;
+}
+
+.social li {
     float: right;
     list-style: none;
     margin-right: 100px;
+    margin-top: -80px;
     
     
 }
 
-.logo li a {
+.social li a {
     line-height: 100px;
     
 }
 
-.logo li i {
+.social li i {
     font-size: 25px;
     color: rgb(66, 66, 66);
 }
 
-.logo li a:hover {
+.social li a:hover {
     border-bottom: 2px solid #00adb5;
 }
 
@@ -52,6 +57,7 @@ body {
     height: 40px;
     background-color:rgb(66, 66, 66) ;
     border-radius: 50px;
+    margin-top: 20px;
    
 }
 
@@ -189,9 +195,9 @@ font-family: "Montserrat", sans-serif;
 
 .center img {
     float: left;
-    width: 380px;
-    height: 350px;
-    margin-left: 10px;
+    width: 300px;
+    height: 300px;
+    margin-left: 45px;
     margin-top: 100px;
     border-radius: 40%;
     padding:10px;
@@ -293,7 +299,7 @@ hr {
 }
 
 #meetup-map {
-    width: 700px;
+    width: 600px;
     height: 440px;
 } 
 
@@ -419,12 +425,25 @@ hr {
 
 }
 
-@media screen and (max-width: 1270px){
+@media screen and (max-width: 1150px){
 
     
     .textmap {
         float: left;
+        clear: left;
     }
+
+
+}
+
+@media screen and (max-width: 1115px){
+
+    .center img {
+        float: left;
+        clear: left;
+    }
+
+
 }
 
 @media screen and (max-width: 1000px){
@@ -451,11 +470,24 @@ hr {
 
     .main-img img {
         float: left;
+        margin-left: 10px;
     }
 
     .right-side {
         clear: left;
+        width: 80%;
     }
+
+    .right-content {
+       width: 40%;
+    }
+    
+    .left-content {
+        width: 40%;
+    }
+
+
+
 
 
 
@@ -463,10 +495,6 @@ hr {
 
 @media screen and (max-width: 855px){
 
-
-    .logo li {
-     display: none;
-    }
 
     .meetup-times {
         float: left;
@@ -483,9 +511,56 @@ hr {
 
     }
 
+    .social ul {
+        margin-top: 40px;
+    }
 
+    .navbar ul {
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 540px){
+
+    .navbar li {
+        float: none;
+        margin: 0 0 0 5px;
+        padding: 0; 
+        background-color: white;
+        
+    }
+
+    .navbar li a {
+        color: black;
+        border-bottom: 1px solid #00adb5;
+        display: inline-block;
+    }
+
+    .main-img {
+        margin-top: 100px;
+    }
+
+    .active {
+        background-color: transparent;
+        color: transparent
+        
+    }
+
+    .navbar ul {
+        background-color: transparent;
+        
+    }
+
+    
+
+   
+
+  
+
+    
 
 
 }
+
 
 
