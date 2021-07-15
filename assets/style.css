@@ -51,14 +51,14 @@ body {
     width: 95%;
     height: 40px;
     background-color:rgb(66, 66, 66) ;
-    margin-top: 5px;
-    border-radius: 25px;
+    border-radius: 50px;
    
 }
 
 .navbar li {
     float: left;
-    margin-left: 100px;
+    margin-left: 50px;
+    padding-right: 150px;
     list-style: none;
     line-height: 40px;
     letter-spacing: 1px;
@@ -68,11 +68,11 @@ body {
 
 .navbar li a {
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: none;
     font-weight: 700;
     display: block;
-    margin-right: 40px;
+    margin-right: 40px ;
 }
 
 .navbar li a:hover {
@@ -113,15 +113,14 @@ body {
 
 
 .right-side  h1 {
-    font-size: 40px;
-    letter-spacing: 5px;
+    font-size: 30px;
     padding-bottom: 25px;
     
 }
 
 
 .right-side  p {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
     letter-spacing: 1px;
     padding-bottom: 10px;
@@ -194,7 +193,7 @@ font-family: "Montserrat", sans-serif;
     height: 350px;
     margin-left: 10px;
     margin-top: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
     padding:10px;
    
 
@@ -220,7 +219,7 @@ font-family: "Montserrat", sans-serif;
     margin-top: 70px;
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 25px;
     padding-bottom: 10px;
     text-align: center;
 }
@@ -228,13 +227,14 @@ font-family: "Montserrat", sans-serif;
 .left-content p {
     align-items: center;
     margin: 0;
+    font-size: 15px;
 }
 
 .right-content h1 {
     margin-top: 100px;
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 25px;
     padding-bottom: 10px;
     text-align: center;
 }
@@ -242,6 +242,7 @@ font-family: "Montserrat", sans-serif;
 .right-content p {
     align-items: center;
     margin: 0;
+    font-size: 15px;
 }
 
 #price {
@@ -426,63 +427,65 @@ hr {
     }
 }
 
-@media screen and (max-width: 950px){
+@media screen and (max-width: 1000px){
 
-    body {
-        width: 65%;
+    
+
+    .navbar li {
+        padding-right: 5px;
+    }
+
+    .center img {
+        
+        clear: left;
     }
 
     #gallery {
+        
         column-count: 2;
     }
 
-    .navbar li a {
-        margin-right: 0;
+    .form {
+        height: 500px;
     }
 
-    .logo li {
-        display: none;
+    .main-img img {
+        float: left;
     }
 
     .right-side {
-        width: 100%;
+        clear: left;
     }
 
-    
-.right-content {
-    
-    width: 100%;
-    margin: 0;
-   
+
+
 }
 
-.left-content {
-    width: 100%;
-    margin: 0;
-    
-} 
+@media screen and (max-width: 855px){
 
-#price {
-    margin-top: 70px;
+
+    .logo li {
+     display: none;
+    }
+
+    .meetup-times {
+        float: left;
+        margin-top: 460px;
+    }
+
+    .form {
+    
+        background: url("./images/form.jpg");
+        background-size:contain;
+        align-items: center;
+        width: 90%;
+        height: 900px; 
+
+    }
+
+
+
+
 }
-
-#logo-mid {
-   margin-left: 15%;
-  
-}
-
-  
-    
-    
-
-    
-
-   
-}
-
-
-
-
-
 
 
