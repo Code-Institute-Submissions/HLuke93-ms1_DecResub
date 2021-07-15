@@ -223,35 +223,37 @@ font-family: "Montserrat", sans-serif;
 } 
 
 .left-content h1 {
-    margin-top: 70px;
+    
     text-transform: uppercase;
     font-weight: 900;
     font-size: 25px;
     padding-bottom: 10px;
     text-align: center;
+    margin-top: 45px;
 }
 
 .left-content p {
     align-items: center;
     margin: 0;
     font-size: 15px;
-    height: 100px;
+    height: 150px;
 }
 
 .right-content h1 {
-    margin-top: 70px;
+   
     text-transform: uppercase;
     font-weight: 900;
     font-size: 25px;
     padding-bottom: 10px;
     text-align: center;
+    margin-top: 45px;
 }
 
 .right-content p {
     align-items: center;
     margin: 0;
     font-size: 15px;
-    height: 100px;
+    height: 150px;
 }
 
 
@@ -266,6 +268,7 @@ font-family: "Montserrat", sans-serif;
     height: 120px;
     float: left;
     margin-left: 40px;
+    margin-bottom: 10px;
     
   
 }
@@ -445,17 +448,20 @@ hr {
     }
 
     .right-content {
-        width: 100%;
+        width: 95%;
         float: none;
-        margin-left: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     
     .left-content {
-        width: 100%;
+        width: 95%;
         float: none;
-        margin-left: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
     
     }
+
 
 
 }
