@@ -519,8 +519,15 @@ hr {
 
     }
 
+    .social {
+        float: left;
+    }
+    
+
     .social ul {
         margin-top: 40px;
+        float: left;
+        margin-left: 50px;
     }
 
     .navbar ul {
@@ -558,6 +565,17 @@ hr {
         background-color: transparent;
         
     }
+
+
+}
+
+
+@media screen and (max-width: 540px){ 
+
+    .social ul li {
+        margin-right: 50px;
+    }
+
 
 
 }
