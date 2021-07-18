@@ -303,12 +303,13 @@ hr {
 }
 
 #meetup-map {
-    width: 600px;
+    width: 550px;
     height: 440px;
 } 
 
 .rightmap {
     float: left;
+    margin-left: 30px;
 }
 
 
@@ -461,6 +462,27 @@ hr {
         margin-right: 20px;
     
     }
+
+    .left-content p {
+        
+        height: 100px;
+    }
+
+    .right-content p {
+        
+        height: 100px;
+    }
+
+    .center img {
+       float: left;
+    }
+
+    .left-content h1 {
+        margin-top: 120px;
+    }
+    
+
+
 
 
 
