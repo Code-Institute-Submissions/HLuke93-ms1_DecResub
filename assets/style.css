@@ -432,8 +432,22 @@ hr {
 
 
 
-.video {
-    margin-left: 50px;
+
+
+.video-text {
+    float: right;
+    width: 30%;
+    
+}
+
+.video-text h1 {
+    float:right;
+    margin: 0;
+}
+
+.video-text p {
+    float: right;
+    margin: 0;
 }
 
 @media screen and (max-width: 1150px){
@@ -444,6 +458,7 @@ hr {
         clear: left;
     }
 
+    
 
 }
 
@@ -524,6 +539,13 @@ hr {
     .right-side {
         clear: left;
         width: 80%;
+    }
+
+    
+
+    .video-text {
+        float: left;
+       
     }
 
 
