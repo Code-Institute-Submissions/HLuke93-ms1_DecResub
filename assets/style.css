@@ -432,24 +432,6 @@ hr {
 
 
 
-
-
-.video-text {
-    float: right;
-    width: 30%;
-    
-}
-
-.video-text h1 {
-    float:right;
-    margin: 0;
-}
-
-.video-text p {
-    float: right;
-    margin: 0;
-}
-
 @media screen and (max-width: 1150px){
 
     
@@ -543,10 +525,7 @@ hr {
 
     
 
-    .video-text {
-        float: left;
-       
-    }
+   
 
 
 }
