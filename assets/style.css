@@ -522,6 +522,11 @@ hr {
        height: 80px;
         
     }
+
+    .left-content h1  {
+        margin-top: 80px;
+         
+     }
     
     .right-content p {
 
@@ -557,6 +562,16 @@ hr {
 
 
 @media screen and (max-width: 540px){
+
+    .textmap {
+        margin-left: 10px;
+    }
+
+    .rightmap {
+        margin-left: 10px;
+    }
+
+
 
     .navbar li {
         float: none;
@@ -597,6 +612,10 @@ hr {
 
     .main-img img {
         width: 500px;
+    }
+
+    .center img {
+        margin-top: 80px;
     }
 
 
@@ -651,6 +670,18 @@ hr {
     .logo img {
         margin: 0;
     }
+
+    .left-content p  {
+        height: 140px;
+         
+     }
+
+     .logo img {
+         width: 250px;
+         height: 80px;
+     }
+
+     
 
    
 
