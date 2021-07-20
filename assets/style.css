@@ -281,6 +281,30 @@ hr {
     
 }
 
+.meetup-vid {
+    margin: 10px 0 100px 50px;
+    
+}
+
+.meetup-vid iframe {
+    width: 50%;
+}
+
+#video h2 {
+    float: left;
+    margin-right: 70px;
+    width: 40%;
+    font-size: 60px;
+}
+
+#video a {
+    float: left;
+    width: 40%;
+    font-size: 25px;
+}
+
+
+
 #gallery {
     clear: both;
     line-height: 0;
