@@ -288,13 +288,17 @@ hr {
 
 .meetup-vid iframe {
     width: 50%;
+    margin-top: 10px;
 }
+
+
 
 #video h2 {
     float: left;
     margin-right: 70px;
     width: 40%;
     font-size: 60px;
+    margin-top: 10px;
 }
 
 #video a {
