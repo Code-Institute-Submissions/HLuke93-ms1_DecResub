@@ -236,7 +236,7 @@ font-family: "Montserrat", sans-serif;
     align-items: center;
     margin: 0;
     font-size: 15px;
-    height: 150px;
+    height: 200px;
 }
 
 .right-content h1 {
@@ -253,7 +253,7 @@ font-family: "Montserrat", sans-serif;
     align-items: center;
     margin: 0;
     font-size: 15px;
-    height: 150px;
+    height: 200px;
 }
 
 
@@ -267,7 +267,7 @@ font-family: "Montserrat", sans-serif;
     width: 400px;
     height: 120px;
     float: left;
-    margin-left: 40px;
+    margin-left: 50px;
     margin-bottom: 10px;
     
   
@@ -309,7 +309,7 @@ hr {
 
 .rightmap {
     float: left;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 
@@ -438,58 +438,13 @@ hr {
     .textmap {
         float: left;
         clear: left;
+        margin-left: 50px;
     }
 
     
 
 }
 
-@media screen and (max-width: 1115px){
-
-    .center img {
-        float: left;
-        clear: left;
-    }
-
-    .right-content {
-        width: 95%;
-        float: none;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-    
-    .left-content {
-        width: 95%;
-        float: none;
-        margin-left: 20px;
-        margin-right: 20px;
-    
-    }
-
-    .left-content p {
-        
-        height: 100px;
-    }
-
-    .right-content p {
-        
-        height: 100px;
-    }
-
-    .center img {
-       float: left;
-    }
-
-    .left-content h1 {
-        margin-top: 120px;
-    }
-    
-
-
-
-
-
-}
 
 @media screen and (max-width: 1000px){
 
@@ -499,10 +454,7 @@ hr {
         padding-right: 5px;
     }
 
-    .center img {
-        
-        clear: left;
-    }
+
 
     #gallery {
         
@@ -533,20 +485,7 @@ hr {
 @media screen and (max-width: 855px){
 
 
-    .meetup-times {
-        float: left;
-        margin-top: 460px;
-    }
 
-    .form {
-    
-        background: url("./images/form.jpg");
-        background-size:contain;
-        align-items: center;
-        width: 90%;
-        height: 900px; 
-
-    }
 
     .social {
         float: left;
@@ -563,6 +502,10 @@ hr {
         margin-top: 60px;
     }
 }
+
+
+
+
 
 @media screen and (max-width: 540px){
 
