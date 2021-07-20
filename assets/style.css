@@ -543,7 +543,7 @@ hr {
     .meetup-times {
         float: left;
         margin-top: 500px;
-        left: 6%;
+        left: 15%;
     }
 
 
@@ -593,6 +593,10 @@ hr {
 
     .social ul li {
         margin-right: 50px;
+    }
+
+    .main-img img {
+        width: 500px;
     }
 
 
