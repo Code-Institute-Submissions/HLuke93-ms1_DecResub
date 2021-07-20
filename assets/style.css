@@ -602,11 +602,57 @@ hr {
 
 }
 
+@media screen and (max-width: 500px){
 
 
+    .signup-form {
+        width: 250px;
+
+    }
+
+    .meetup-times {
+        width: 250px;
+    }
+
+    .meetup-times h1 {
+
+        margin-left: 20px;
+       
+    
+    }
+
+    .meetup-times h3 {
+        margin-left: 20px;
+    }
+
+    .meetup-times p {
+        margin-left: 20px;
+    }
+
+    footer {
+        height: 150px;
+        margin-top: 0;
+    }
+
+    .top-footer h3 {
+        margin:0;
+    }
+
+    footer ul {
+        margin: 0;
+        float: left;
+    }
+
+    .top-footer ul li {
+        margin: 0 10px 0 0;
+        font-size: 13px;
+    }
+
+    .logo img {
+        margin: 0;
+    }
 
    
-
 
 
 }
