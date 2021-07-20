@@ -345,10 +345,7 @@ hr {
 
 .form {
     
-    background: url("./images/form.jpg");
-    background-size:contain;
-    background-repeat: no-repeat;
-    align-items: center;
+   background-color: #00adb5;
     width: 90%;
     height: 700px;
     
@@ -501,6 +498,58 @@ hr {
     .navbar ul {
         margin-top: 60px;
     }
+
+    .left-content  {
+        float: left;
+        clear: left;
+        width: 80%;
+        margin: 0 0 0 50px;
+       
+        
+    }
+    
+    .right-content {
+        float: left;
+        clear: left;
+        width: 80%;
+        margin: 0 0 0 50px;
+        
+     
+    }
+
+
+    .left-content p  {
+       height: 80px;
+        
+    }
+    
+    .right-content p {
+
+        height: 80px;
+    
+     
+    }
+
+    .center img {
+        margin: 15px 0 0 50px;
+    }
+
+    .form {
+        height: 1000px;
+        background-color: #00adb5;
+        background-image: none;
+    }
+
+    .meetup-times {
+        float: left;
+        margin-top: 500px;
+        left: 6%;
+    }
+
+
+
+
+
 }
 
 
@@ -538,15 +587,21 @@ hr {
         
     }
 
-
-}
-
-
-@media screen and (max-width: 540px){ 
+    .form {
+        margin-top: 25%;
+    }
 
     .social ul li {
         margin-right: 50px;
     }
+
+
+}
+
+
+
+
+   
 
 
 
