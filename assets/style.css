@@ -497,6 +497,10 @@ hr {
         width: 80%;
     }
 
+    #video h2 {
+        font-size: 40px;
+    }
+
     
 
    
@@ -574,6 +578,20 @@ hr {
         float: left;
         margin-top: 500px;
         left: 15%;
+    }
+
+    .meetup-vid iframe {
+        float: left;
+    }
+
+    #video h2 {
+        float: left;
+        clear: left;
+        width: 90%;
+    }
+
+    #video h2 i {
+        display: none;
     }
 
 
