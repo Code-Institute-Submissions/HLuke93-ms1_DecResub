@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0 auto;
     box-sizing: border-box;
+    
 
 }
 
@@ -343,6 +344,7 @@ hr {
     margin-right: 200px;
     width: 350px;
     
+    
 }
 
 
@@ -583,6 +585,7 @@ hr {
 
     .meetup-vid iframe {
         float: left;
+        width: 80%;
     }
 
     #video h2 {
