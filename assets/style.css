@@ -373,9 +373,10 @@ hr {
 .form {
     
    background-color: #00adb5;
-    width: 100%;
+    width: 80%;
     height: 700px;
     border-radius: 20px;
+    float: left;
     
   
    
@@ -388,9 +389,9 @@ hr {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 6%;
     padding: 30px;
     border-radius: 20%;
+    float: left;
 }
 
 .signup-form h1 {
@@ -428,18 +429,20 @@ hr {
     color:#00adb5;
 }
 .meetup-times {
-    width: 350px;
-    height: 400px;
-    float: right;
+    margin-top: 50px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    margin: 50px 0px 0 6%;
+    max-width: 350px;
+    position: absolute;
+    padding: 30px;
     border-radius: 20%;
+    margin-left: 50%;
+  
 }
 
 .meetup-times h1 {
     font-size: 25px;
-    margin: 15px 0 0 100px;
+    margin: 15px 0 0 20px;
     font-weight: 900;
     
 }
@@ -451,7 +454,7 @@ hr {
 .meetup-times h3, p {
 
     font-size: 20px;
-    margin: 40px 0 0 130px;
+    margin: 40px 0 0 20px;
 
 }
 
@@ -579,8 +582,10 @@ hr {
 
     .meetup-times {
         float: left;
+        clear: left;
         margin-top: 500px;
-        left: 15%;
+        margin-left: 0;
+        
     }
 
     .meetup-vid iframe {
