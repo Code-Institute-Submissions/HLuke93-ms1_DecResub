@@ -373,10 +373,11 @@ hr {
 .form {
     
    background-color: #00adb5;
-    width: 80%;
-    height: 700px;
+    width: 90%;
+    height: 500px;
     border-radius: 20px;
     float: left;
+    margin-left: 50px;
     
   
    
