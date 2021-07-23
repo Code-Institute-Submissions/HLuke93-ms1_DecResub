@@ -816,6 +816,10 @@ hr {
         border-radius: 20px;
     }
 
+    .form {
+        margin-left: 0;
+    }
+
 }
 
 
