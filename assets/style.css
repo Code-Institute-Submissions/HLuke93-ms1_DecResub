@@ -519,7 +519,7 @@ hr {
 
 }
 
-@media screen and (max-width: 855px){
+@media screen and (max-width: 856px){
 
 
 
@@ -537,6 +537,12 @@ hr {
 
     .navbar ul {
         margin-top: 60px;
+    }
+
+  
+
+    .main-img img {
+        margin-left: 50px;
     }
 
     .left-content  {
@@ -609,11 +615,12 @@ hr {
     }
 
     .textmap {
-        margin-left: 10px;
+        margin-left: 50px;
     }
 
     .rightmap {
-        margin-left: 10px;
+        margin-left: 50px;
+        margin-top: 10px;
     }
 
 
