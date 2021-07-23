@@ -332,13 +332,13 @@ hr {
 }
 
 #meetup-map {
-    width: 80vw;
+    width: 70vw;
     height: 440px;
 } 
 
 .rightmap {
     float: left;
-    margin-left: 50px;
+    margin-left: 5px;
     
 }
 
@@ -346,7 +346,7 @@ hr {
 .textmap {
     float: left;
     width: 350px;
-    margin-left: 50px;
+    margin-left: 5px;
     
     
 }
@@ -645,10 +645,20 @@ hr {
     }
 
     .navbar li a {
-        color: black;
-        border-bottom: 1px solid #00adb5;
+        color: black;  
         display: inline-block;
     }
+
+    .navbar li a:hover {
+        border-bottom: 1px solid #00adb5;
+    }
+
+    .active {
+        border-bottom: 1px solid #00adb5;
+
+    }
+
+    
 
     .main-img {
         margin-top: 100px;
