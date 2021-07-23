@@ -308,16 +308,19 @@ hr {
 
 
 #gallery {
+    width: 90%;
     clear: both;
     line-height: 0;
     column-count: 3;
-    column-gap: 0px;
     margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 #gallery img {
     width: 100%;
     border-radius: 20px;
+   
 }
 
 .location {
