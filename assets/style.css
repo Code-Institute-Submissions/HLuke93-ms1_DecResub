@@ -22,7 +22,7 @@ body {
     float: left;
     width: 400px;
     height: 120px;
-    margin: 0 0 0 30px;
+    margin: 0 0 0 5px;
     cursor: pointer;
 }
 
@@ -64,7 +64,7 @@ body {
 
 .navbar li {
     float: left;
-    margin-left: 50px;
+    margin-left: 5px;
     padding-right: 150px;
     list-style: none;
     line-height: 40px;
@@ -104,7 +104,7 @@ body {
     float: right;
     width: 550px;
     height: auto;
-    margin-right: 3%;
+    margin-right: 10%;
     border-radius: 100px;
     margin-top: 10px;
     
@@ -115,7 +115,7 @@ body {
     float: left;
     width: 33%;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 
@@ -220,7 +220,7 @@ font-family: "Montserrat", sans-serif;
 .left-content {
     float: left;
     width: 25%;
-    margin-left: 50px;
+    margin-left: 5px;
 } 
 
 .left-content h1 {
@@ -268,7 +268,7 @@ font-family: "Montserrat", sans-serif;
     width: 400px;
     height: 120px;
     float: left;
-    margin-left: 50px;
+    margin-left: 5px;
     margin-bottom: 10px;
     
   
@@ -283,7 +283,7 @@ hr {
 }
 
 .meetup-vid {
-    margin: 10px 0 100px 50px;
+    margin: 10px 0 100px 5px;
     
 }
 
@@ -542,14 +542,15 @@ hr {
   
 
     .main-img img {
-        margin-left: 50px;
+        float: left;
+        margin-left: 5px;
     }
 
     .left-content  {
         float: left;
         clear: left;
         width: 80%;
-        margin: 0 0 0 50px;
+        margin: 0 0 0 5px;
        
         
     }
@@ -558,7 +559,7 @@ hr {
         float: left;
         clear: left;
         width: 80%;
-        margin: 0 0 0 50px;
+        margin: 0 0 0 5px;
         
      
     }
@@ -582,7 +583,7 @@ hr {
     }
 
     .center img {
-        margin-left: 30%;
+        margin-left: 5px;
     }
 
     .form {
@@ -602,12 +603,14 @@ hr {
     .meetup-vid iframe {
         float: left;
         width: 80%;
+        margin-left: 5px;
     }
 
     #video h2 {
         float: left;
         clear: left;
-        width: 90%;
+        width: 80%;
+        margin-left: 5px;
     }
 
     #video h2 i {
@@ -615,11 +618,11 @@ hr {
     }
 
     .textmap {
-        margin-left: 50px;
+        margin-left: 5px;
     }
 
     .rightmap {
-        margin-left: 50px;
+        margin-left: 5px;
         margin-top: 10px;
     }
 
@@ -772,10 +775,10 @@ hr {
     }
 
     .center img {
-        margin-left: 25%;
-        margin-top: 5px;
+        margin-left: 5px;
         width: 200px;
         height: 200px;
+        margin-top: 0;
     }
 
     .right-content h1 {
