@@ -290,7 +290,7 @@ hr {
 }
 
 .meetup-vid iframe {
-    width: 50%;
+    width: 40%;
     margin-top: 10px;
 }
 
@@ -334,7 +334,7 @@ hr {
 }
 
 #meetup-map {
-    width: 70vw;
+    width: 60vw;
     height: 440px;
 } 
 
@@ -474,7 +474,7 @@ hr {
     .textmap {
         float: left;
         clear: left;
-        margin-left: 50px;
+        margin-left: 5px;
     }
 
     
@@ -795,8 +795,8 @@ hr {
      }
 
      .logo img {
-         width: 200px;
-         height: 70px;
+         width: 300px;
+         height: 90px;
          margin-left: 0%;
      }
 
