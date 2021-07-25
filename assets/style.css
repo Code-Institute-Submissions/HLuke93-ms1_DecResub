@@ -290,19 +290,22 @@ hr {
 }
 
 .meetup-vid iframe {
-    width: 40%;
+    width: 50%;
+    height: 400px;
     margin-top: 10px;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 50px;
 }
 
 
 
 #video h2 {
-    float: left;
-    margin-right: 70px;
-    width: 40%;
+   
+    width: 60%;
     font-size: 60px;
     margin-top: 10px;
-    border-bottom:2px solid #00adb5;
+    margin-left: 5px;
 }
 
 
@@ -336,10 +339,12 @@ hr {
 #meetup-map {
     width: 60vw;
     height: 440px;
+    float: left;
+    clear: both;
 } 
 
 .rightmap {
-    float: left;
+    
     margin-left: 5px;
     
 }
@@ -371,11 +376,7 @@ hr {
 
 }
 
-.textmap img {
-    width: 500px;
-    height: 230px;
-    border-radius: 20px;
-}
+
 
 .form {
     
