@@ -44,13 +44,13 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 ### Desktop Pages
 
-![Desktop Version](./assets/Desktop-Layout.png)
+![Desktop Version](./assets/images/Desktop-Layout.png)
 
 
 ### Mobile Pages
 
 
-![Mobile Version](./assets/Mobile-Layout.png)
+![Mobile Version](./assets/images/Mobile-Layout.png)
 
 
 
