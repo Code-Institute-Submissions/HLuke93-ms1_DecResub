@@ -30,7 +30,7 @@ To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook
 All 3 Links open in a new tab to the sites.
 The Instagram link , links directly the the Dublin French Bulldog Page.
 
-![Social Icon Images}(./assets/images/social-icons.png)
+![Social Icon Images](./assets/images/social-icons.png)
 
 
 
