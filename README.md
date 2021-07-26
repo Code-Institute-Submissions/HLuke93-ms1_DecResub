@@ -198,6 +198,14 @@ The Contact for has 4 fields to be completed by the user.
   It looks different than on Chrome and Edge.
 * This Bug is still outstanding.
 
+## Validator Testing
+
+* HTML
+No Errors found when testing through the official W3C validator.
+1 warning message ""
+* CSS
+* Accessibility
+
 
 ## Deployment
 
