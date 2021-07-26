@@ -206,7 +206,15 @@ No Errors found when testing through the official W3C validator.
 ![Warning](./assets/images/html-validator.PNG) 
 
 * CSS
+No Errors found when testing through the official Jigsaw validator.
+
+![CSS](./assets/images/css-validator.PNG) 
+
 * Accessibility
+
+Webpage was run through Lighthouse in Chrome Devtools to test acessibility
+
+![CSS](./assets/images/accessibility.PNG) 
 
 
 ## Deployment
