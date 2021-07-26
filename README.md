@@ -52,7 +52,7 @@ The Main Section answers one of the most commonly asked questions in relation to
 
 *Why have French Bulldogs become so popular?
 
-ALongside this questions is an image of a French Bulldog with a Big Smile on his face!
+Alongside this questions is an image of a French Bulldog with a Big Smile on his face!
 
 
 
@@ -74,6 +74,8 @@ There is also a center image of a French Bulldog.
 
 
 
+
+
 ![Mid Section Image](./assets/images/mid-content-readme.PNG)
 
 
@@ -91,7 +93,26 @@ The location of the meetup is displayed and a google map location iframe.
 
 * **Footer**
 
+The Footer is located at the bottom of the page and displays the text ''Copyright 2021 Fifi the Frenchie''. This is not a legitimate copyright name , it is used for display purposes only.
+
+There are 4 links in the footer , Contact, Donate, Help and FAQ , Privacy Policy.
+All 4 of these links take the user back to the homepage.
+
+
+
+![Footer](./assets/images/footer-read-me.PNG)
+
 * **Gallery**
+
+The Gallery page has a selection of 9 French Bulldog images.
+The purpose of this page is to show the user the many different colors and types of French Bulldogs , and to also give insight
+into the type of companion Frenchies are.
+
+
+
+
+![Gallery](./assets/images/gallery-read-me.PNG) 
+
 
 * **Contact**
 
