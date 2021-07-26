@@ -116,6 +116,17 @@ into the type of companion Frenchies are.
 
 * **Contact**
 
+The Contact link give the user the oppertunity to sign-up to become part of the French Bulldog meetup.
+The Contact for has 4 fields to be completed by the user.
+1. First Name
+2. Last Name
+3. Email Address
+4. Frenchies name
+
+
+![Gallery](./assets/images/contact-read-me.PNG) 
+
+
 
 
 
