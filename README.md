@@ -1,6 +1,6 @@
-# FIFI
+# FIFI (French Bulldog Meetup)
 
-FIFI is a site dedicated to French Bulldog related questions and a community in the dublin area for meetups.
+*FIFI* is a site dedicated to French Bulldog related questions and a community in the dublin area for meetups.
 
 The French Bulldog Dubin Club has been around for over 10 Years !! 
 
@@ -15,7 +15,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 # Features
 
-* Main Logo
+* **Main Logo**
 
 Located at the Top of the page , The French Bulldog Logo printed in black and white.
 THe Logo also acts as a clickable link which will direct the user back to the homepage.
@@ -24,7 +24,7 @@ THe Logo also acts as a clickable link which will direct the user back to the ho
 
 
 
-* Social Icons & Links
+* **Social Icons & Links**
 
 To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook.
 All 3 Links open in a new tab to the sites.
@@ -34,18 +34,19 @@ The Instagram link , links directly the the Dublin French Bulldog Page.
 
 
 
-* Main Navigation Menu
+* **Main Navigation Menu**
 
 The Main Navigation consists of a navigation bar with 3 links. Home , Gallery and Contact.
 Each link will direct the user to a new page.
 The current active page link is highlighted in the navbar. When the user hovers of a 
 different link , the link is highlighted also.
 
+
 ![Navigation Bar](./assets/images/navbar.PNG)
 
 
 
-* Main Section
+* **Main Section**
 
 The Main Section answers one of the most commonly asked questions in relation to French Bulldogs.
 
@@ -53,11 +54,13 @@ The Main Section answers one of the most commonly asked questions in relation to
 
 ALongside this questions is an image of a French Bulldog with a Big Smile on his face!
 
-![Main Section IMage](./assets/images/main-section-img.png)
+
+
+![Main Section Image](./assets/images/main-section-img.PNG)
 
 
 
-* Mid Section
+* **Mid Section**
 
 The Mid Section aims to answer 4 French Bulldog Related Questions.
 
@@ -66,15 +69,31 @@ The Mid Section aims to answer 4 French Bulldog Related Questions.
 3. Are french bulldogs lazy?
 4. Are french bulldogs easy to train?
 
-There is also a center image of a French Bulldog
+There is also a center image of a French Bulldog.
 
-* Meetup Information
 
-* Footer
 
-* Gallery
 
-* Contact
+![Mid Section Image](./assets/images/mid-content-readme.PNG)
+
+
+
+* **Meetup Information**
+
+This Section of the page invites to user to view a video of a previous French Bulldog Meetup.
+The video gives the user a sample of what goes on at the meetups.
+There is a link to sign up for the next french bulldog meetup which takes the user to the contact page of ths site.
+The location of the meetup is displayed and a google map location iframe.
+
+![Youtube Video](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/read-me-map.PNG)
+
+
+
+* **Footer**
+
+* **Gallery**
+
+* **Contact**
 
 
 
