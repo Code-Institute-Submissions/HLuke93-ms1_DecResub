@@ -202,7 +202,9 @@ The Contact for has 4 fields to be completed by the user.
 
 * HTML
 No Errors found when testing through the official W3C validator.
-1 warning message ""
+1 warning message (See below)
+![Warning](./assets/images/html-validator.PNG) 
+
 * CSS
 * Accessibility
 
