@@ -15,7 +15,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 # Features
 
-* Main Logo
+**Main Logo
 
 Located at the Top of the page , The French Bulldog Logo printed in black and white.
 THe Logo also acts as a clickable link which will direct the user back to the homepage.
@@ -24,7 +24,7 @@ THe Logo also acts as a clickable link which will direct the user back to the ho
 
 
 
-* Social Icons & Links
+**Social Icons & Links
 
 To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook.
 All 3 Links open in a new tab to the sites.
@@ -34,7 +34,7 @@ The Instagram link , links directly the the Dublin French Bulldog Page.
 
 
 
-* Main Navigation Menu
+**Main Navigation Menu
 
 The Main Navigation consists of a navigation bar with 3 links. Home , Gallery and Contact.
 Each link will direct the user to a new page.
@@ -46,7 +46,7 @@ different link , the link is highlighted also.
 
 
 
-* Main Section
+**Main Section
 
 The Main Section answers one of the most commonly asked questions in relation to French Bulldogs.
 
@@ -60,7 +60,7 @@ ALongside this questions is an image of a French Bulldog with a Big Smile on his
 
 
 
-* Mid Section
+**Mid Section
 
 The Mid Section aims to answer 4 French Bulldog Related Questions.
 
@@ -78,13 +78,13 @@ There is also a center image of a French Bulldog.
 
 
 
-* Meetup Information
+**Meetup Information
 
-* Footer
+**Footer
 
-* Gallery
+**Gallery
 
-* Contact
+**Contact
 
 
 
