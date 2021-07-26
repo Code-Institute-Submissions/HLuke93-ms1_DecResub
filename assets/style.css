@@ -779,9 +779,10 @@ hr {
      }
 
      .main-img img {
-         width: 300px;
-         height: 200px;
+         width: 250px;
+         height: 180px;
          margin-left: 5%;
+         margin-right: 0%;
          border-radius: 15px;
      }
 
