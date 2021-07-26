@@ -50,7 +50,6 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 ### Mobile Pages
 
 
-![Mobile Version](./assets/images/Mobile-Layout.png)
 
 
 
