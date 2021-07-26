@@ -235,10 +235,12 @@ The live link can be found here - (https://hluke93.github.io/ms1/)
 ## Credits
 
 * Content
+<hr>
 The Code used in this website was written from scratch.
 The Code instiute , Youtube and W3 Schools was referenced.
 
 * Media
+<hr>
 The Images used on this webpage were taken from [Pexels](https://www.pexels.com/)
 The Animation for the Navbar and Social links was take from [Animate](https://animate.style/)
 
