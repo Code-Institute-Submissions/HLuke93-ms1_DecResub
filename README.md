@@ -170,6 +170,35 @@ The Contact for has 4 fields to be completed by the user.
 
 
 
+## Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) was used for the HTML site markup
+* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) was used to style the HTML content
+* [Balsamiq](https://balsamiq.com/) was used to create the wireframes
+* [Am I Responsive](http://ami.responsivedesign.is/) was used to test the responsiveness of the site
+* [Pexels](https://www.pexels.com/) was used to download copyright free images
+* [Font Awesome](https://fontawesome.com/) was used for the site icons / social icons
+* [Google Fonts](https://fonts.google.com/) provided the fonts used on the site
+* [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) was used to test site responsiveness and to test code
+* [Github](https://github.com/HLuke93) was used as the repository hosting service
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+* [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) were used to validate the HTML and CSS used.
+
+
+## Testing
+
+* Testing was performed on Google Chrome and MIcrosoft Edge.
+* Media Queries were added to ensure that the site is responsive across all device sizes.
+* Testing was perfromed on the contact page form to ensure all fields are required.
+* All links on the site have been tested to ensure they are working.
+* All external links to pages were tested to ensure a new tab is opened once clicked.
+
+## Bugs
+
+* When the webpage is opened on Mozilla Firefox, there is a layout issue with the HR (Horizontal Rule) 
+  It looks different than on Chrome and Edge.
+* This Bug is still outstnading.
+
 
 
 
