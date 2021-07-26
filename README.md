@@ -15,7 +15,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 # Features
 
-**Main Logo
+**Main Logo**
 
 Located at the Top of the page , The French Bulldog Logo printed in black and white.
 THe Logo also acts as a clickable link which will direct the user back to the homepage.
@@ -24,7 +24,7 @@ THe Logo also acts as a clickable link which will direct the user back to the ho
 
 
 
-**Social Icons & LinkS**
+**Social Icons & Links**
 
 To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook.
 All 3 Links open in a new tab to the sites.
