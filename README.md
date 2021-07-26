@@ -41,6 +41,7 @@ Each link will direct the user to a new page.
 The current active page link is highlighted in the navbar. When the user hovers of a 
 different link , the link is highlighted also.
 
+
 ![Navigation Bar](./assets/images/navbar.PNG)
 
 
@@ -52,6 +53,8 @@ The Main Section answers one of the most commonly asked questions in relation to
 *Why have French Bulldogs become so popular?
 
 ALongside this questions is an image of a French Bulldog with a Big Smile on his face!
+
+
 
 ![Main Section Image](./assets/images/main-section-img.PNG)
 
@@ -67,6 +70,9 @@ The Mid Section aims to answer 4 French Bulldog Related Questions.
 4. Are french bulldogs easy to train?
 
 There is also a center image of a French Bulldog.
+
+
+
 
 ![Mid Section Image](./assets/images/mid-content-readme.PNG)
 
