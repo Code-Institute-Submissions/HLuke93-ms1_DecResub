@@ -100,7 +100,7 @@ All 4 of these links take the user back to the homepage.
 
 
 
-![Footer](./assets/images/read-me-video.PNG)
+![Footer](./assets/images/footer-read-me.PNG)
 
 * **Gallery**
 
@@ -111,7 +111,7 @@ into the type of companion Frenchies are.
 
 
 
-![Gallery](./assets/images/read-me-video.PNG) 
+![Gallery](./assets/images/gallery-read-me.PNG) 
 
 
 * **Contact**
