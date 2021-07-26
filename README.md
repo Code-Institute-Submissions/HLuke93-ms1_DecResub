@@ -13,6 +13,24 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 ![Homepage Demostration across multiple devices](./assets/images/responsive.png)
 
 
+
+## Table of Contents
+
+1. [Site Design Considerations](#site-design-considerations)
+    * [Colour Scheme and Font](#colour-scheme-and-font)
+2.  [Wireframes](#wireframes)
+    * [Homepage](#homepage)
+3. [Features](#features)
+    * [Initial Deployment Features](#initial-deployment-features)
+    * [Future Features](#future-features)
+4. [Technologies Used](#technologies-used)
+5. [Testing](#testing)
+    * [Automated testing](./testing/TESTING.md)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+
+
+
 # Features
 
 * **Main Logo**
