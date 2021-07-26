@@ -1,6 +1,6 @@
-# FIFI
+# FIFI (French Bulldog Meetup)
 
-FIFI is a site dedicated to French Bulldog related questions and a community in the dublin area for meetups.
+*FIFI* is a site dedicated to French Bulldog related questions and a community in the dublin area for meetups.
 
 The French Bulldog Dubin Club has been around for over 10 Years !! 
 
@@ -53,7 +53,7 @@ The Main Section answers one of the most commonly asked questions in relation to
 
 ALongside this questions is an image of a French Bulldog with a Big Smile on his face!
 
-![Main Section IMage](./assets/images/main-section-img.png)
+![Main Section Image](./assets/images/main-section-img.png)
 
 
 
@@ -66,7 +66,11 @@ The Mid Section aims to answer 4 French Bulldog Related Questions.
 3. Are french bulldogs lazy?
 4. Are french bulldogs easy to train?
 
-There is also a center image of a French Bulldog
+There is also a center image of a French Bulldog.
+
+![Mid Section Image](./assets/images/mid-content-readme.png)
+
+
 
 * Meetup Information
 
