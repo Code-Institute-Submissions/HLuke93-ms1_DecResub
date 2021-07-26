@@ -181,6 +181,7 @@ The Contact for has 4 fields to be completed by the user.
 * [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) was used to test site responsiveness and to test code
 * [Github](https://github.com/HLuke93) was used as the repository hosting service
 * [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+* [Animate](https://animate.style/) was used for the animation
 * [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) were used to validate the HTML and CSS used.
 
 
@@ -240,7 +241,7 @@ The live link can be found here - (https://hluke93.github.io/ms1/)
 
 
 The Code used in this website was written from scratch.
-The Code instiute , Youtube and W3 Schools was referenced.
+The Code institute , Youtube and W3 Schools was referenced.
 
 * Media
 
