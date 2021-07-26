@@ -16,8 +16,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 ## Table of Contents
 
-1. [Site Design Considerations](#site-design-considerations)
-    * [Colour Scheme and Font](#colour-scheme-and-font)
+1. [Site Design ](#site-design)
 2.  [Wireframes](#wireframes)
     * [Homepage](#homepage)
 3. [Features](#features)
@@ -28,6 +27,19 @@ You can view the [live website](https://hluke93.github.io/ms1/).
     * [Automated testing](./testing/TESTING.md)
 6. [Deployment](#deployment)
 7. [Credits](#credits)
+
+
+# Site Design
+
+* The approach i took designing this website was to display clear , concise text so the user could retain information.
+* To do this I added 5 questions and answers on the homepage , some images , a video and a meetup location map.
+* I chose 2 fonts when designing this site , Open+Sans and Monserrat , both take from Googlefonts.
+* The color scheme I went with during the design was rgb(66, 66, 66) for the Nav Bar and Footer with   color: #fff for the links.
+  I also used a #00adb5 color for borders and active links.
+* The Default font color was #000000 , However this was amended to rgb(66, 66, 66) to add more consistancy to the site.
+
+
+
 
 
 
