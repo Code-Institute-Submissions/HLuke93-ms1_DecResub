@@ -121,7 +121,7 @@ body {
 
 
 .right-side h1 {
-    font-size: 30px;
+    font-size: 35px;
     padding-bottom: 25px;
     
 }
@@ -129,7 +129,7 @@ body {
 
 .right-side p {
     font-family: 'Montserrat' , sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 1px;
     padding-bottom: 10px;
@@ -230,7 +230,7 @@ font-family:'Open+Sans', sans-serif;
     
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 25px;
+    font-size: 30px;
     padding-bottom: 10px;
     text-align: center;
     margin-top: 45px;
@@ -240,7 +240,7 @@ font-family:'Open+Sans', sans-serif;
     font-family: 'Montserrat' , sans-serif;
     align-items: center;
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
     height: 300px;
 }
 
@@ -248,7 +248,7 @@ font-family:'Open+Sans', sans-serif;
    
     text-transform: uppercase;
     font-weight: 900;
-    font-size: 25px;
+    font-size: 30px;
     padding-bottom: 10px;
     text-align: center;
     margin-top: 45px;
@@ -258,7 +258,7 @@ font-family:'Open+Sans', sans-serif;
     font-family: 'Montserrat' , sans-serif;
     align-items: center;
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
     height: 300px;
 }
 
@@ -461,6 +461,33 @@ hr {
         margin-left: 5px;
     }
 
+    .left-content h1 {
+    
+      
+        font-size: 20px;
+       
+    }
+    
+    .left-content p {
+        
+        font-size: 15px;
+        
+    }
+    
+    .right-content h1 {
+       
+      
+        font-size: 20px;
+       
+    }
+    
+    .right-content p {
+      
+        font-size: 15px;
+       
+    }
+
+
     
 
 }
@@ -468,7 +495,6 @@ hr {
 
 @media screen and (max-width: 1000px){
 
-    
 
 
 
