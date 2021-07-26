@@ -53,7 +53,7 @@ The Main Section answers one of the most commonly asked questions in relation to
 
 ALongside this questions is an image of a French Bulldog with a Big Smile on his face!
 
-![Main Section Image](./assets/images/main-section-img.png)
+![Main Section Image](./assets/images/main-section-img.PNG)
 
 
 
@@ -68,7 +68,7 @@ The Mid Section aims to answer 4 French Bulldog Related Questions.
 
 There is also a center image of a French Bulldog.
 
-![Mid Section Image](./assets/images/mid-content-readme.png)
+![Mid Section Image](./assets/images/mid-content-readme.PNG)
 
 
 
