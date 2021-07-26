@@ -380,20 +380,19 @@ hr {
 
 .form {
     
-   background-color: #00adb5;
-    width: 90%;
-    height: 500px;
+   
+    width: 100%;
+    height: 550px;
     border-radius: 20px;
     float: left;
-    margin-left: 50px;
+    margin-left: 5px;
     
-  
-   
+    
 }
 
 .signup-form {
     
-    margin: 50px 0 0 0;
+    margin: 30px 0 0 5px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
@@ -437,34 +436,15 @@ hr {
     background-color:#fafafa;
     color:#00adb5;
 }
-.meetup-times {
-    margin-top: 50px;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 350px;
-    position: absolute;
-    padding: 30px;
-    border-radius: 20%;
-    margin-left: 50%;
-  
-}
 
-.meetup-times h1 {
-    font-size: 25px;
-    margin: 15px 0 0 20px;
-    font-weight: 900;
+.meetup-pic {
+    float: left;
     
 }
 
-.meetup-times h3 {
-    font-weight: 700;
-}
-
-.meetup-times h3, p {
-
-    font-size: 20px;
-    margin: 40px 0 0 20px;
-
+.meetup-pic img {
+    height: 550px;
+    width: 550px;
 }
 
 
@@ -633,18 +613,12 @@ hr {
     }
 
     .form {
-        height: 1000px;
-        background-color: #00adb5;
-        background-image: none;
-    }
-
-    .meetup-times {
-        float: left;
-        clear: left;
-        margin-top: 500px;
-        margin-left: 0;
+        height: 550px;
+        width: 350px;
         
     }
+
+
 
     .meetup-vid iframe {
         float: left;
@@ -743,31 +717,36 @@ hr {
 
 
    
-
+.form {
+    height: 400px;
+}
 
     .signup-form {
-        width: 230px;
+        width: 350px;
+
 
     }
 
-    .meetup-times {
-        width: 230px;
+    .meetup-pic img {
+        width: 350px;
+        height: 350px;
     }
 
-    .meetup-times h1 {
+    .signup-form {
+        margin: 0;
+        padding: 0;
+        
+    }
 
-        margin-left: 20px;
-       
+    .signup-form h1 {
+       margin-left: 40px;
+    }
+
+   
+
+   
+
     
-    }
-
-    .meetup-times h3 {
-        margin-left: 20px;
-    }
-
-    .meetup-times p {
-        margin-left: 20px;
-    }
 
     footer {
         height: 75px;
