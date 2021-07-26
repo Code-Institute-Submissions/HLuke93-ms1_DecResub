@@ -74,6 +74,8 @@ There is also a center image of a French Bulldog.
 
 
 
+
+
 ![Mid Section Image](./assets/images/mid-content-readme.PNG)
 
 
@@ -98,7 +100,7 @@ All 4 of these links take the user back to the homepage.
 
 
 
-![Footer](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/footer-read-me.PNG)
+![Footer](./assets/images/read-me-video.PNG)
 
 * **Gallery**
 
@@ -109,7 +111,7 @@ into the type of companion Frenchies are.
 
 
 
-![Gallery](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/gallery-read-me.PNG)
+![Gallery](./assets/images/read-me-video.PNG) 
 
 
 * **Contact**
