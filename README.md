@@ -31,7 +31,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 # Site Design
 
-* The approach i took designing this website was to display clear , concise text so the user could retain information.
+* The approach I took designing this website was to display clear , concise text so the user could retain information.
 * To do this I added 5 questions and answers on the homepage , some images , a video and a meetup location map.
 * I chose 2 fonts when designing this site , Open+Sans and Monserrat , both take from Googlefonts.
 * The color scheme I went with during the design was rgb(66, 66, 66) for the Nav Bar and Footer with   color: #fff for the links.
@@ -40,6 +40,17 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 
 
+## Wireframes
+
+### Desktop Pages
+
+![Desktop Version](./assets/Desktop-Layout.png)
+
+
+### Mobile Pages
+
+
+![Mobile Version](./assets/Mobile-Layout.png)
 
 
 
