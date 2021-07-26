@@ -24,7 +24,6 @@ You can view the [live website](https://hluke93.github.io/ms1/).
     * [Future Features](#future-features)
 4. [Technologies Used](#technologies-used)
 5. [Testing](#testing)
-    * [Automated testing](./testing/TESTING.md)
 6. [Deployment](#deployment)
 7. [Credits](#credits)
 
@@ -197,7 +196,23 @@ The Contact for has 4 fields to be completed by the user.
 
 * When the webpage is opened on Mozilla Firefox, there is a layout issue with the HR (Horizontal Rule) 
   It looks different than on Chrome and Edge.
-* This Bug is still outstnading.
+* This Bug is still outstanding.
+
+
+## Deployment
+
+
+The site was deployed to GitHub pages. 
+
+The steps to deploy are as follows:
+* In the GitHub repository, navigate to the Settings tab
+* Select the Pages sub-menu
+* From the source section drop-down menu, select the Master Branch, and then hit save
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - (https://hluke93.github.io/ms1/)
+
+
 
 
 
