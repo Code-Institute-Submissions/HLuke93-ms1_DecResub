@@ -80,6 +80,15 @@ There is also a center image of a French Bulldog.
 
 * **Meetup Information**
 
+This Section of the page invites to user to view a video of a previous French Bulldog Meetup.
+The video gives the user a sample of what goes on at the meetups.
+There is a link to sign up for the next french bulldog meetup which takes the user to the contact page of ths site.
+The location of the meetup is displayed and a google map location iframe.
+
+![Youtube Video](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/read-me-map.PNG)
+
+
+
 * **Footer**
 
 * **Gallery**
