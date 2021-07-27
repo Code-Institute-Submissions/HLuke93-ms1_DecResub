@@ -69,7 +69,6 @@
 }
  .active {
      background-color:#00adb5;
-     ;
      color: white;
 }
  .main-img {
@@ -159,17 +158,17 @@
      height: 300px;
      border-radius: 40%;
      padding:10px;
-     margin-top: 150px;
-     margin-left: 8%;
+     margin-top: 350px;
+     margin-left: 3%;
 }
  .right-content {
      float: right;
-     width: 25%;
+     width: 30%;
      margin-right: 50px;
 }
  .left-content {
      float: left;
-     width: 25%;
+     width: 30%;
      margin-left: 5px;
 }
  .left-content h1 {
@@ -337,16 +336,16 @@
          margin-left: 5px;
     }
      .left-content h1 {
-         font-size: 20px;
+         font-size: 25px;
     }
      .left-content p {
-         font-size: 17px;
-    }
-     .right-content h1 {
          font-size: 20px;
     }
+     .right-content h1 {
+         font-size: 25px;
+    }
      .right-content p {
-         font-size: 17px;
+         font-size: 20px;
     }
 }
  @media screen and (max-width: 1000px){
@@ -366,6 +365,11 @@
     }
      #video h2 {
          font-size: 40px;
+    }
+
+    .center img {
+        height: 250px;
+        width: 250px;
     }
      @media screen and (max-width: 1000px){
          .navbar li {
@@ -414,6 +418,8 @@
     }
      .left-content h1 {
          text-align: left;
+         font-size: 17px;
+         margin-top: 80px;
     }
      .right-content {
          float: left;
@@ -423,15 +429,16 @@
     }
      .right-content h1 {
          text-align: left;
+         font-size: 17px;
     }
      .left-content p {
          height: 80px;
+         font-size: 15px;
     }
-     .left-content h1 {
-         margin-top: 80px;
-    }
+     
      .right-content p {
          height: 80px;
+         font-size: 15px;
     }
      .center img {
          margin-left: 5px;
@@ -560,7 +567,7 @@
          padding-bottom: 20px;
     }
      .right-side p {
-         font-size: 10px;
+         font-size: 15px;
          font-weight: 500;
          letter-spacing: 1px;
          padding-bottom: 10px;
