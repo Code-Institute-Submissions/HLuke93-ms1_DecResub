@@ -20,8 +20,6 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 2.  [Wireframes](#wireframes)
     * [Homepage](#homepage)
 3. [Features](#features)
-    * [Initial Deployment Features](#initial-deployment-features)
-    * [Future Features](#future-features)
 4. [Technologies Used](#technologies-used)
 5. [Testing](#testing)
 6. [Deployment](#deployment)
