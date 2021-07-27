@@ -238,8 +238,8 @@ The live link can be found here - (https://hluke93.github.io/ms1/)
 
 
 
-The Code used in this website was written from scratch.
-The Code institute , Youtube and W3 Schools was referenced.
+The Code used in this website was written by the developer.
+The Code institute , Youtube and W3 Schools were used a guides.
 
 * Media
 
