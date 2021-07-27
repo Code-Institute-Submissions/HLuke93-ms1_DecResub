@@ -241,6 +241,7 @@ The live link can be found here - (https://hluke93.github.io/ms1/)
 The Code used in this website was written by the developer.
 The Code institute , Youtube and W3 Schools were used a guides.
 
+
 * Media
 
 
@@ -249,6 +250,7 @@ The Code institute , Youtube and W3 Schools were used a guides.
 
 The Images used on this webpage were taken from [Pexels](https://www.pexels.com/)
 The Animation for the Navbar and Social links was take from [Animate](https://animate.style/)
+The Main Logo was created using [Looka](https://looka.com/logo-maker/)
 
 
 
