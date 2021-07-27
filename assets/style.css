@@ -1,934 +1,629 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&display=swap');
-
-* {
-    padding: 0;
-    margin: 0 auto;
-    box-sizing: border-box;
-
-    
-
+ * {
+     padding: 0;
+     margin: 0 auto;
+     box-sizing: border-box;
 }
-
-body {
-    font-family:'Open+Sans', sans-serif;
-    width: 100%;
-    color: rgb(66, 66, 66) ;
+ body {
+     font-family:'Open+Sans', sans-serif;
+     width: 100%;
+     color: rgb(66, 66, 66) ;
 }
-
-.logo {
-    width: 100%;
-    height: 120px;
+ .logo {
+     width: 100%;
+     height: 120px;
 }
-
-.logo img {
-    float: left;
-    width: 400px;
-    height: 120px;
-    margin: 0 0 0 5px;
-    cursor: pointer;
+ .logo img {
+     float: left;
+     width: 400px;
+     height: 120px;
+     margin: 0 0 0 5px;
+     cursor: pointer;
 }
-
-.social {
-    float: right;
+ .social {
+     float: right;
 }
-
-.social li {
-    float: right;
-    list-style: none;
-    margin-right: 100px;
-    margin-top: -80px;
-    
-    
+ .social li {
+     float: right;
+     list-style: none;
+     margin-right: 100px;
+     margin-top: -80px;
 }
-
-.social li a {
-    line-height: 100px;
-    
+ .social li a {
+     line-height: 100px;
 }
-
-.social li i {
-    font-size: 25px;
-    color: rgb(66, 66, 66);
+ .social li i {
+     font-size: 25px;
+     color: rgb(66, 66, 66);
 }
-
-.social li a:hover {
-    border-bottom: 2px solid #00adb5;
+ .social li a:hover {
+     border-bottom: 2px solid #00adb5;
 }
-
-.navbar ul {
-    width: 100%;
-    height: 40px;
-    background-color:rgb(66, 66, 66) ;
-    margin-top: 20px;
-    border-radius: 20px;
-   
+ .navbar ul {
+     width: 100%;
+     height: 40px;
+     background-color:rgb(66, 66, 66) ;
+     margin-top: 20px;
+     border-radius: 20px;
 }
-
-.navbar li {
-    float: left;
-    margin-left: 5px;
-    padding-right: 150px;
-    list-style: none;
-    line-height: 40px;
-    letter-spacing: 1px;
-    
-
+ .navbar li {
+     float: left;
+     margin-left: 5px;
+     padding-right: 150px;
+     list-style: none;
+     line-height: 40px;
+     letter-spacing: 1px;
 }
-
-.navbar li a {
-    color: #fff;
-    font-size: 20px;
-    text-decoration: none;
-    font-weight: 700;
-    display: block;
-    margin-right: 40px ;
-    margin-left: 40px;
+ .navbar li a {
+     color: #fff;
+     font-size: 20px;
+     text-decoration: none;
+     font-weight: 700;
+     display: block;
+     margin-right: 40px ;
+     margin-left: 40px;
 }
-
-.navbar li a:hover {
-    background-color:#00adb5; 
-    color: white;
-   
+ .navbar li a:hover {
+     background-color:#00adb5;
+     color: white;
 }
-
-.active {
-    background-color:#00adb5; ;
-    color: white;
-    
+ .active {
+     background-color:#00adb5;
+     ;
+     color: white;
 }
-
-.main-img {
-    width: 100%;
-    height: auto;
-    margin-top: 5px;
+ .main-img {
+     width: 100%;
+     height: auto;
+     margin-top: 5px;
 }
-
-.main-img img {
-    float: right;
-    width: 550px;
-    height: auto;
-    margin-right: 10%;
-    border-radius: 100px;
-    margin-top: 50px;
-    
-    
+ .main-img img {
+     float: right;
+     width: 550px;
+     height: auto;
+     margin-right: 10%;
+     border-radius: 100px;
+     margin-top: 50px;
 }
-
-.right-side {
-    float: left;
-    width: 33%;
-    margin-top: 50px;
-    margin-left: 5px;
+ .right-side {
+     float: left;
+     width: 33%;
+     margin-top: 50px;
+     margin-left: 5px;
 }
-
-
-.right-side h1 {
-    font-size: 35px;
-    padding-bottom: 25px;
-    margin-left: 5px;
-    
+ .right-side h1 {
+     font-size: 35px;
+     padding-bottom: 25px;
+     margin-left: 5px;
 }
-
-
-.right-side p {
-    font-family: 'Montserrat' , sans-serif;
-    font-size: 20px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding-bottom: 10px;
-    margin: 0;
-    margin-left: 5px;
-    
+ .right-side p {
+     font-family: 'Montserrat' , sans-serif;
+     font-size: 20px;
+     font-weight: 700;
+     letter-spacing: 1px;
+     padding-bottom: 10px;
+     margin: 0;
+     margin-left: 5px;
 }
-
-footer {
-
-    margin-top: 10px;
-    float: left;
-    background-color: rgb(66, 66, 66);
-    width: 100%;
-    height: 75px;
-    
+ footer {
+     margin-top: 10px;
+     float: left;
+     background-color: rgb(66, 66, 66);
+     width: 100%;
+     height: 75px;
 }
-
-footer ul {
-    margin-right: 30px;
+ footer ul {
+     margin-right: 30px;
 }
-
-
-.top-footer ul li {
-    float: right;
-    margin-right: 30px;
-    list-style: none;
-    margin-bottom: 10px;
+ .top-footer ul li {
+     float: right;
+     margin-right: 30px;
+     list-style: none;
+     margin-bottom: 10px;
 }
-
-.top-footer li a {
-text-decoration: none;
-color: #fff;
-font-family:'Open+Sans', sans-serif;
+ .top-footer li a {
+     text-decoration: none;
+     color: #fff;
+     font-family:'Open+Sans', sans-serif;
 }
-
-.top-footer li a:hover {
-    color:#00adb5; ;
-    border-bottom:2px solid #00adb5; ;
+ .top-footer li a:hover {
+     color:#00adb5;
+     ;
+     border-bottom:2px solid #00adb5;
+     ;
 }
-
-.top-footer h3 {
-    color: #fff;
-    font-family:'Open+Sans', sans-serif;
-    margin-top: 10px;
-    margin-left: 50px;
+ .top-footer h3 {
+     color: #fff;
+     font-family:'Open+Sans', sans-serif;
+     margin-top: 10px;
+     margin-left: 50px;
 }
-
-.bottom-footer {
-    float: left;
+ .bottom-footer {
+     float: left;
 }
-
-.bottom-footer p {
-    color: #fff;
-    font-family:'Open+Sans', sans-serif;
-    margin-top: 10px;
-    font-size: 12px;
-    margin-left: 50px;
+ .bottom-footer p {
+     color: #fff;
+     font-family:'Open+Sans', sans-serif;
+     margin-top: 10px;
+     font-size: 12px;
+     margin-left: 50px;
 }
-
-#mid-content {
-    width: 100%;
-    height: auto;
-    float: left;
-    padding-bottom: 50px;
-    
+ #mid-content {
+     width: 100%;
+     height: auto;
+     float: left;
+     padding-bottom: 50px;
 }
-
-
-.center img {
-    
-    width: 300px;
-    height: 300px;
-    border-radius: 40%;
-    padding:10px;
-    margin-top: 150px;
-    margin-left: 8%;
-   
-
+ .center img {
+     width: 300px;
+     height: 300px;
+     border-radius: 40%;
+     padding:10px;
+     margin-top: 150px;
+     margin-left: 8%;
 }
-
-.right-content {
-    float: right;
-    width: 25%;
-    margin-right: 50px;
-    
-   
-    
-
+ .right-content {
+     float: right;
+     width: 25%;
+     margin-right: 50px;
 }
-
-.left-content {
-    float: left;
-    width: 25%;
-    margin-left: 5px;
-} 
-
-.left-content h1 {
-    
-    text-transform: uppercase;
-    font-weight: 900;
-    font-size: 30px;
-    padding-bottom: 10px;
-    text-align: center;
-    margin-top: 45px;
-    margin-left: 5px;
+ .left-content {
+     float: left;
+     width: 25%;
+     margin-left: 5px;
 }
-
-.left-content p {
-    font-family: 'Montserrat' , sans-serif;
-    align-items: center;
-    margin: 0;
-    font-size: 20px;
-    height: 300px;
-    margin-left: 5px;
+ .left-content h1 {
+     text-transform: uppercase;
+     font-weight: 900;
+     font-size: 30px;
+     padding-bottom: 10px;
+     text-align: center;
+     margin-top: 45px;
+     margin-left: 5px;
 }
-
-.right-content h1 {
-   
-    text-transform: uppercase;
-    font-weight: 900;
-    font-size: 30px;
-    padding-bottom: 10px;
-    text-align: center;
-    margin-top: 45px;
+ .left-content p {
+     font-family: 'Montserrat' , sans-serif;
+     align-items: center;
+     margin: 0;
+     font-size: 20px;
+     height: 300px;
+     margin-left: 5px;
 }
-
-.right-content p {
-    font-family: 'Montserrat' , sans-serif;
-    align-items: center;
-    margin: 0;
-    font-size: 20px;
-    height: 300px;
+ .right-content h1 {
+     text-transform: uppercase;
+     font-weight: 900;
+     font-size: 30px;
+     padding-bottom: 10px;
+     text-align: center;
+     margin-top: 45px;
 }
-
-
-
-#logo-mid {
-    float: left;
-  
+ .right-content p {
+     font-family: 'Montserrat' , sans-serif;
+     align-items: center;
+     margin: 0;
+     font-size: 20px;
+     height: 300px;
 }
-
-.logo-mid-img img {
-    width: 400px;
-    height: 120px;
-    float: left;
-    margin-left: 5px;
-    margin-bottom: 10px;
-    
-  
+ #logo-mid {
+     float: left;
 }
-
-hr {
-    
-    width: 90%;
-    height: 10px;
-    background-color: #00adb5;
-    
+ .logo-mid-img img {
+     width: 400px;
+     height: 120px;
+     float: left;
+     margin-left: 5px;
+     margin-bottom: 10px;
 }
-
-.meetup-vid {
-    margin: 10px 0 10px 5px;
-    
+ hr {
+     width: 90%;
+     height: 10px;
+     background-color: #00adb5;
 }
-
-.meetup-vid iframe {
-    width: 50%;
-    height: 400px;
-    margin-top: 10px;
-
-    margin-left: 5px;
-    margin-bottom: 50px;
+ .meetup-vid {
+     margin: 10px 0 10px 5px;
 }
-
-
-
-#video h2 {
-   
-    width: 60%;
-    font-size: 60px;
-    margin-top: 10px;
-    margin-left: 5px;
+ .meetup-vid iframe {
+     width: 50%;
+     height: 400px;
+     margin-top: 10px;
+     margin-left: 5px;
+     margin-bottom: 50px;
 }
-
-
-
-
-
-#gallery {
-    width: 90%;
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    margin-top: 10px;
-    margin-left: 5%;
-    margin-right: 5%;
+ #video h2 {
+     width: 60%;
+     font-size: 60px;
+     margin-top: 10px;
+     margin-left: 5px;
 }
-
-#gallery img {
-    width: 100%;
-    border-radius: 20px;
-   
+ #gallery {
+     width: 90%;
+     clear: both;
+     line-height: 0;
+     column-count: 3;
+     margin-top: 10px;
+     margin-left: 5%;
+     margin-right: 5%;
 }
-
-.location {
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
-    
-    
+ #gallery img {
+     width: 100%;
+     border-radius: 20px;
 }
-
-#meetup-map {
-    width: 60vw;
-    height: 440px;
-    float: left;
-    clear: both;
-} 
-
-.rightmap {
-    
-    margin-left: 5px;
-    
+ .location {
+     width: 100%;
+     height: auto;
+     margin-top: 10px;
 }
-
-
-.textmap {
-    float: left;
-    clear: both;
-    width: 350px;
-    margin-left: 5px;
-    
-    
+ #meetup-map {
+     width: 60vw;
+     height: 440px;
+     float: left;
+     clear: both;
 }
-
-
-
-.textmap h1 {
-    font-size: 35px;
-    margin-bottom: 10px;
-
+ .rightmap {
+     margin-left: 5px;
 }
-
-
-
-.textmap p {
-    font-size: 15px;
-    margin: 10px 0 10px 0;
-    
-
+ .textmap {
+     float: left;
+     clear: both;
+     width: 350px;
+     margin-left: 5px;
 }
-
-
-
-.form {
-    
-   
-    width: 100%;
-    height: 550px;
-    border-radius: 20px;
-    float: left;
-    margin-left: 5px;
-    
-    
+ .textmap h1 {
+     font-size: 35px;
+     margin-bottom: 10px;
 }
-
-.signup-form {
-    
-    margin: 30px 0 0 5px;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    padding: 30px;
-    border-radius: 20%;
-    float: left;
+ .textmap p {
+     font-size: 15px;
+     margin: 10px 0 10px 0;
 }
-
-.signup-form h1 {
-    color: #ffffff;
-    margin-bottom: 10px;
-    font-size: 30px;
+ .form {
+     width: 100%;
+     height: 550px;
+     border-radius: 20px;
+     float: left;
+     margin-left: 5px;
 }
-
-.text-input {
-    background: transparent;
-    color: #fafafa;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 0px 0;
-    border: 1px solid #fafafa;
-    border-radius: 5px;
+ .signup-form {
+     margin: 30px 0 0 5px;
+     color: #fff;
+     background-color: rgba(60, 60, 60, 0.6);
+     max-width: 400px;
+     position: absolute;
+     padding: 30px;
+     border-radius: 20%;
+     float: left;
 }
-
-.text-input:hover {
-    border-color: #00adb5;
+ .signup-form h1 {
+     color: #ffffff;
+     margin-bottom: 10px;
+     font-size: 30px;
 }
-
-.submit-button {
-    margin-top:20px;
-    padding:10px 20px 10px 20px;
-    text-align: center;
-    font-size:100%;
-    background-color: #00adb5;
-    display:block;
-    color:#fafafa;
+ .text-input {
+     background: transparent;
+     color: #fafafa;
+     width: 100%;
+     height: 25px;
+     margin: 5px 0 0px 0;
+     border: 1px solid #fafafa;
+     border-radius: 5px;
 }
-
-.submit-button {
-    background-color:#fafafa;
-    color:#00adb5;
+ .text-input:hover {
+     border-color: #00adb5;
 }
-
-.meetup-pic {
-    float: left;
-    
+ .submit-button {
+     margin-top:20px;
+     padding:10px 20px 10px 20px;
+     text-align: center;
+     font-size:100%;
+     background-color: #00adb5;
+     display:block;
+     color:#fafafa;
 }
-
-.meetup-pic img {
-    height: 550px;
-    width: 550px;
+ .submit-button {
+     background-color:#fafafa;
+     color:#00adb5;
 }
-
-
-
-@media screen and (max-width: 1150px){
-
-    
-    .textmap {
-        float: left;
-        clear: left;
-        margin-left: 5px;
+ .meetup-pic {
+     float: left;
+}
+ .meetup-pic img {
+     height: 550px;
+     width: 550px;
+}
+ @media screen and (max-width: 1150px){
+     .textmap {
+         float: left;
+         clear: left;
+         margin-left: 5px;
     }
-
-    .left-content h1 {
-    
-      
-        font-size: 20px;
-       
+     .left-content h1 {
+         font-size: 20px;
     }
-    
-    .left-content p {
-        
-        font-size: 17px;
-        
+     .left-content p {
+         font-size: 17px;
     }
-    
-    .right-content h1 {
-       
-      
-        font-size: 20px;
-       
+     .right-content h1 {
+         font-size: 20px;
     }
-    
-    .right-content p {
-      
-        font-size: 17px;
-       
+     .right-content p {
+         font-size: 17px;
     }
-
-
-    
-
 }
-
-
-@media screen and (max-width: 1000px){
-
-
-
-
-    #gallery {
-        
-        column-count: 2;
+ @media screen and (max-width: 1000px){
+     #gallery {
+         column-count: 2;
     }
-
-    .form {
-        height: 500px;
+     .form {
+         height: 500px;
     }
-
-    .main-img img {
-        float: left;
-        margin-left: 10px;
+     .main-img img {
+         float: left;
+         margin-left: 10px;
     }
-
-    .right-side {
-        clear: left;
-        width: 80%;
+     .right-side {
+         clear: left;
+         width: 80%;
     }
-
-    #video h2 {
-        font-size: 40px;
+     #video h2 {
+         font-size: 40px;
     }
-
-    @media screen and (max-width: 1000px){
-
-    
-
-        .navbar li {
-            padding-right: 20px;
+     @media screen and (max-width: 1000px){
+         .navbar li {
+             padding-right: 20px;
         }
-    
-    
-    
-        #gallery {
-            
-            column-count: 2;
+         #gallery {
+             column-count: 2;
         }
-    
-        .form {
-            height: 500px;
+         .form {
+             height: 500px;
         }
-    
-        .main-img img {
-            float: left;
-            margin-left: 10px;
+         .main-img img {
+             float: left;
+             margin-left: 10px;
         }
-    
-        .right-side {
-            clear: left;
-            width: 80%;
+         .right-side {
+             clear: left;
+             width: 80%;
         }
-    
-        #video h2 {
-            font-size: 40px;
+         #video h2 {
+             font-size: 40px;
         }
-    
-        
-    
-       
-    
-    
     }
-
-   
-
-
 }
-
-@media screen and (max-width: 896px){
-
-
-
-
-    .social {
-        float: left;
+ @media screen and (max-width: 896px){
+     .social {
+         float: left;
     }
-    
-
-    .social ul {
-        margin-top: 40px;
-        float: left;
-        margin-left: 50px;
+     .social ul {
+         margin-top: 40px;
+         float: left;
+         margin-left: 50px;
     }
-
-    .navbar ul {
-        margin-top: 60px;
+     .navbar ul {
+         margin-top: 60px;
     }
-
-  
-
-    .main-img img {
-        float: left;
-        margin-left: 5px;
+     .main-img img {
+         float: left;
+         margin-left: 5px;
     }
-
-    .left-content  {
-        float: left;
-        clear: left;
-        width: 80%;
-        margin: 0 0 0 5px;
-       
-        
+     .left-content {
+         float: left;
+         clear: left;
+         width: 80%;
+         margin: 0 0 0 5px;
     }
-
-    .left-content h1 {
-       text-align: left;
+     .left-content h1 {
+         text-align: left;
     }
-    
-    .right-content {
-        float: left;
-        clear: left;
-        width: 80%;
-        margin: 0 0 0 5px;
-        
-     
+     .right-content {
+         float: left;
+         clear: left;
+         width: 80%;
+         margin: 0 0 0 5px;
     }
-
-    .right-content h1 {
-        text-align: left;
+     .right-content h1 {
+         text-align: left;
     }
-
-
-    .left-content p  {
-       height: 80px;
-        
+     .left-content p {
+         height: 80px;
     }
-
-    .left-content h1  {
-        margin-top: 80px;
-         
-     }
-    
-    .right-content p {
-
-        height: 80px;
-    
-     
+     .left-content h1 {
+         margin-top: 80px;
     }
-
-    .center img {
-        margin-left: 5px;
+     .right-content p {
+         height: 80px;
     }
-
-    .form {
-        height: 550px;
-        width: 350px;
-        
+     .center img {
+         margin-left: 5px;
     }
-
-
-
-    .meetup-vid iframe {
-        float: left;
-        width: 80%;
-        margin-left: 5px;
+     .form {
+         height: 550px;
+         width: 350px;
     }
-
-    #video h2 {
-        float: left;
-        clear: left;
-        width: 80%;
-        margin-left: 5px;
+     .meetup-vid iframe {
+         float: left;
+         width: 80%;
+         margin-left: 5px;
     }
-
-    #video h2 i {
-        display: none;
+     #video h2 {
+         float: left;
+         clear: left;
+         width: 80%;
+         margin-left: 5px;
     }
-
-    .textmap {
-        margin-left: 5px;
-        width: 40%;
+     #video h2 i {
+         display: none;
     }
-
-    .rightmap {
-        margin-left: 5px;
-        margin-top: 10px;
+     .textmap {
+         margin-left: 5px;
+         width: 40%;
     }
-
-
-
-    .navbar li {
-        float: none;
-        margin: 0 0 0 5px;
-        padding: 0; 
-        background-color: white;
-        
+     .rightmap {
+         margin-left: 5px;
+         margin-top: 10px;
     }
-
-    .navbar li a {
-        color: black;  
-        display: inline-block;
+     .navbar li {
+         float: none;
+         margin: 0 0 0 5px;
+         padding: 0;
+         background-color: white;
     }
-
-    .navbar li a:hover {
-        border-bottom: 1px solid #00adb5;
+     .navbar li a {
+         color: black;
+         display: inline-block;
     }
-
-    .active {
-        border-bottom: 1px solid #00adb5;
-
+     .navbar li a:hover {
+         border-bottom: 1px solid #00adb5;
     }
-
-    
-
-    .main-img {
-        margin-top: 100px;
+     .active {
+         border-bottom: 1px solid #00adb5;
     }
-
-    .active {
-        background-color: transparent;
-        color: transparent;
-        
+     .main-img {
+         margin-top: 100px;
     }
-
-    .navbar ul {
-        background-color: transparent;
-        
+     .active {
+         background-color: transparent;
+         color: transparent;
     }
-
-    .form {
-        margin-top: 25%;
+     .navbar ul {
+         background-color: transparent;
     }
-
-    .social ul li {
-        margin-right: 50px;
+     .form {
+         margin-top: 25%;
     }
-
-    .main-img img {
-        width: 500px;
+     .social ul li {
+         margin-right: 50px;
     }
-
-    .center img {
-        margin-top: 80px;
+     .main-img img {
+         width: 500px;
     }
-
-    #gallery {
-        margin-top: 60px;
+     .center img {
+         margin-top: 80px;
     }
-
-
-
-
+     #gallery {
+         margin-top: 60px;
+    }
 }
-
-@media screen and (max-width: 550px){
-
-
-   
-.form {
-    height: 400px;
-}
-
-    .signup-form {
-        width: 350px;
-
-
+ @media screen and (max-width: 550px){
+     .form {
+         height: 400px;
     }
-
-    .meetup-pic img {
-        width: 350px;
-        height: 350px;
+     .signup-form {
+         width: 350px;
     }
-
-    .signup-form {
-        margin: 0;
-        padding: 0;
-        
+     .meetup-pic img {
+         width: 350px;
+         height: 350px;
     }
-
-    .signup-form h1 {
-       margin-left: 40px;
+     .signup-form {
+         margin: 0;
+         padding: 0;
     }
-
-
-    
-
-    footer {
-        height: 75px;
-        margin-top: 0;
-        
+     .signup-form h1 {
+         margin-left: 40px;
     }
-
-    .top-footer h3 {
-        margin:0;
+     footer {
+         height: 75px;
+         margin-top: 0;
     }
-
-    footer ul {
-        margin: 0;
-        float: left;
+     .top-footer h3 {
+         margin:0;
     }
-
-    .top-footer ul li {
-        margin: 0 10px 0 0;
-        font-size: 13px;
+     footer ul {
+         margin: 0;
+         float: left;
     }
-
-
-
-    .left-content p  {
-        height: 80px;
-         
-     }
-
+     .top-footer ul li {
+         margin: 0 10px 0 0;
+         font-size: 13px;
+    }
+     .left-content p {
+         height: 80px;
+    }
      .logo img {
          width: 200px;
          height: 60px;
          margin-left: 0%;
-     }
-
+    }
      .main-img img {
          width: 250px;
          height: 180px;
          margin-left: 5%;
          margin-right: 0%;
          border-radius: 15px;
-     }
-
+    }
      .mid-content {
          width: 100vw;
-     }
-
+    }
      .right-side h1 {
-        font-size: 20px;
-        padding-bottom: 20px;
+         font-size: 20px;
+         padding-bottom: 20px;
     }
-
-    .right-side p {
-        font-size: 10px;
-        font-weight: 500;
-        letter-spacing: 1px;
-        padding-bottom: 10px;
-        margin: 0;
+     .right-side p {
+         font-size: 10px;
+         font-weight: 500;
+         letter-spacing: 1px;
+         padding-bottom: 10px;
+         margin: 0;
     }
-    
-    .logo-mid-img img {
-        width: 200px;
-        height: 60px;
-        float: left;
-        margin-left: 5px;
-        margin-bottom: 10px;
+     .logo-mid-img img {
+         width: 200px;
+         height: 60px;
+         float: left;
+         margin-left: 5px;
+         margin-bottom: 10px;
     }
-
-    .center img {
-        margin-left: 5px;
-        width: 200px;
-        height: 200px;
-        margin-top: 0;
+     .center img {
+         margin-left: 5px;
+         width: 200px;
+         height: 200px;
+         margin-top: 0;
     }
-
-    .right-content h1 {
-        text-transform: uppercase;
-        font-weight: 700;
-        font-size: 20px;
-        padding-bottom: 10px;
-        margin-top: 35px;
+     .right-content h1 {
+         text-transform: uppercase;
+         font-weight: 700;
+         font-size: 20px;
+         padding-bottom: 10px;
+         margin-top: 35px;
     }
-
-    .right-content p {
-        margin: 0;
-        font-size: 15px;
-        height: 100px;
-        
+     .right-content p {
+         margin: 0;
+         font-size: 15px;
+         height: 100px;
     }
-
-    .left-content h1 {
-        text-transform: uppercase;
-        font-weight: 700;
-        font-size: 20px;
-        padding-bottom: 10px;
-        margin-top: 35px;
+     .left-content h1 {
+         text-transform: uppercase;
+         font-weight: 700;
+         font-size: 20px;
+         padding-bottom: 10px;
+         margin-top: 35px;
     }
-
-    .left-content p {
-        margin: 0;
-        font-size: 15px;
-        height: 170px;
-        
+     .left-content p {
+         margin: 0;
+         font-size: 15px;
+         height: 170px;
     }
-
- 
-
-   
-
-    #video h2 {
-        float: left;
-        width: 70%;
-        font-size: 25px;
-        margin-top: 10px;
-        border-bottom: 1px solid #00adb5;
+     #video h2 {
+         float: left;
+         width: 70%;
+         font-size: 25px;
+         margin-top: 10px;
+         border-bottom: 1px solid #00adb5;
     }
-
-    .textmap img {
-        width: 300px;
-        height: 150px;
-        border-radius: 20px;
+     .textmap img {
+         width: 300px;
+         height: 150px;
+         border-radius: 20px;
     }
-
-    .textmap h5 {
-        margin-top: 5px;
-        margin-bottom: 10px;
+     .textmap h5 {
+         margin-top: 5px;
+         margin-bottom: 10px;
     }
-
-    
-
-    .form {
-        margin-left: 0;
+     .form {
+         margin-left: 0;
     }
-
-    .center {
-        width: 80%;
+     .center {
+         width: 80%;
     }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
