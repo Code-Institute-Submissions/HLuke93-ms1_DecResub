@@ -17,8 +17,7 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 ## Table of Contents
 
 1. [Site Design ](#site-design)
-2.  [Wireframes](#wireframes)
-    * [Homepage](#homepage)
+2. [Wireframes](#wireframes)
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
 5. [Testing](#testing)
