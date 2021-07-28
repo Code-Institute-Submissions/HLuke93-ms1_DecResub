@@ -60,6 +60,8 @@ The Logo also acts as a clickable link which will direct the user back to the ho
 
 ![Main Logo Image](./assets/images/logo.png)
 
+<hr>
+
 
 
 * **Social Icons & Links**
