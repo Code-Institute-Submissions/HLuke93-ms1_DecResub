@@ -29,8 +29,8 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 * The approach I took designing this website was to display clear , concise text so the user could retain information.
 * To do this I added 5 questions and answers on the homepage , some images , a video and a meetup location map.
-* I chose 2 fonts when designing this site , Open+Sans and Monserrat , both take from Googlefonts.
-* The color scheme I went with during the design was rgb(66, 66, 66) for the Nav Bar and Footer with   color: #fff for the links.
+* I chose 2 fonts when designing this site , Open+Sans and Monserrat , both taken from [Google Fonts](https://fonts.google.com/).
+* The color scheme I went with during the design was rgb(66, 66, 66) for the Nav Bar and Footer with color: #fff for the links.
   I also used a #00adb5 color for borders and active links.
 * The Default font color was #000000 , However this was amended to rgb(66, 66, 66) to add more consistancy to the site.
 
@@ -55,8 +55,8 @@ You can view the [live website](https://hluke93.github.io/ms1/).
 
 * **Main Logo**
 
-Located at the Top of the page , The French Bulldog Logo printed in black and white.
-THe Logo also acts as a clickable link which will direct the user back to the homepage.
+Located at the Top of the page, The French Bulldog Logo printed in black and white.
+The Logo also acts as a clickable link which will direct the user back to the homepage.
 
 ![Main Logo Image](./assets/images/logo.png)
 
@@ -66,7 +66,7 @@ THe Logo also acts as a clickable link which will direct the user back to the ho
 
 To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook.
 All 3 Links open in a new tab to the sites.
-The Instagram link , links directly the the Dublin French Bulldog Page.
+The Instagram link , links directly to the Dublin French Bulldog Instagram Page.
 
 ![Social Icon Images](./assets/images/social-icons.png)
 
