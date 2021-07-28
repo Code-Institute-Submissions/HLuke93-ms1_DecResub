@@ -72,6 +72,7 @@ The Instagram link , links directly to the Dublin French Bulldog Instagram Page.
 
 ![Social Icon Images](./assets/images/social-icons.png)
 
+<hr>
 
 
 * **Main Navigation Menu**
@@ -94,10 +95,12 @@ The Main Section answers one of the most commonly asked questions in relation to
 
 Alongside this questions is an image of a French Bulldog with a Big Smile on his face!
 
+<hr>
 
 
 ![Main Section Image](./assets/images/main-section-img.PNG)
 
+<hr>
 
 
 * **Mid Section**
