@@ -72,6 +72,7 @@ The Instagram link , links directly to the Dublin French Bulldog Instagram Page.
 
 ![Social Icon Images](./assets/images/social-icons.png)
 
+
 <hr>
 
 
@@ -84,6 +85,8 @@ different link , the link is highlighted also.
 
 
 ![Navigation Bar](./assets/images/navbar.PNG)
+
+<hr>
 
 
 
@@ -121,6 +124,8 @@ There is also a center image of a French Bulldog.
 
 ![Mid Section Image](./assets/images/mid-content-readme.PNG)
 
+<hr>
+
 
 
 * **Meetup Information**
@@ -131,6 +136,8 @@ There is a link to sign up for the next french bulldog meetup which takes the us
 The location of the meetup is displayed and a google map location iframe.
 
 ![Youtube Video](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/read-me-map.PNG)
+
+<hr>
 
 
 
@@ -145,6 +152,9 @@ All 4 of these links take the user back to the homepage.
 
 ![Footer](./assets/images/footer-read-me.PNG)
 
+<hr>
+
+
 * **Gallery**
 
 The Gallery page has a selection of 9 French Bulldog images.
@@ -155,6 +165,9 @@ into the type of companion Frenchies are.
 
 
 ![Gallery](./assets/images/gallery-read-me.PNG) 
+
+<hr>
+
 
 
 * **Contact**
@@ -168,6 +181,9 @@ The Contact for has 4 fields to be completed by the user.
 
 
 ![Gallery](./assets/images/contact-read-me.PNG) 
+
+<hr>
+
 
 
 
