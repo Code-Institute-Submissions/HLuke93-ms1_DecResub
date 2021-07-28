@@ -224,18 +224,39 @@ The Contact for has 4 fields to be completed by the user.
 * HTML
 No Errors found when testing through the official W3C validator.
 1 warning message (See below)
-![Warning](./assets/images/html-validator.PNG) 
+
+<hr>
+
+
+![Warning](./assets/images/html-validator.PNG)
+
+<hr>
+
+
 
 * CSS
 No Errors found when testing through the official Jigsaw validator.
 
+<hr>
+
+
 ![CSS](./assets/images/css-validator.PNG) 
+
+
+<hr>
+
 
 * Accessibility
 
 Webpage was run through Lighthouse in Chrome Devtools to test acessibility
 
+<hr>
+
+
 ![CSS](./assets/images/accessibility.PNG) 
+
+
+<hr>
 
 
 ## Deployment
