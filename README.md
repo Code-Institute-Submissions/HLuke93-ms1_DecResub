@@ -292,7 +292,9 @@ The Code institute , Youtube and W3 Schools were used a guides.
 
 
 The Images used on this webpage were taken from [Pexels](https://www.pexels.com/)
+<br>
 The Animation for the Navbar and Social links was take from [Animate](https://animate.style/)
+<br>
 The Main Logo was created using [Looka](https://looka.com/logo-maker/)
 
 
