@@ -1,3 +1,5 @@
+/* Font import and body styling */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&display=swap');
  * {
      padding: 0;
@@ -9,6 +11,9 @@
      width: 100%;
      color: rgb(66, 66, 66) ;
 }
+
+/* logo styling */
+
  .logo {
      width: 100%;
      height: 120px;
@@ -20,6 +25,9 @@
      margin: 0 0 0 5px;
      cursor: pointer;
 }
+
+/* Social Media Links Styling */
+
  .social {
      float: right;
 }
@@ -39,9 +47,12 @@
  .social li a:hover {
      border-bottom: 2px solid #00adb5;
 }
+
+/* Navbar styling */
+
  .navbar ul {
      width: 100%;
-     height: 40px;
+     height: 48px;
      background-color:rgb(66, 66, 66) ;
      margin-top: 20px;
      border-radius: 20px;
@@ -62,6 +73,8 @@
      display: block;
      margin-right: 40px ;
      margin-left: 40px;
+     padding: 4px;
+    
 }
  .navbar li a:hover {
      background-color:#00adb5;
@@ -71,6 +84,9 @@
      background-color:#00adb5;
      color: white;
 }
+
+/* Main Section */
+
  .main-img {
      width: 100%;
      height: auto;
@@ -104,6 +120,9 @@
      margin: 0;
      margin-left: 5px;
 }
+
+/* Footer Styling */
+
  footer {
      margin-top: 10px;
      float: left;
@@ -147,6 +166,9 @@
      font-size: 12px;
      margin-left: 50px;
 }
+
+/* Middle Content Styling */
+
  #mid-content {
      width: 100%;
      height: auto;
@@ -203,6 +225,10 @@
      font-size: 20px;
      height: 300px;
 }
+
+/* Mid Logo Styling */
+
+
  #logo-mid {
      float: left;
 }
@@ -213,59 +239,65 @@
      margin-left: 5px;
      margin-bottom: 10px;
 }
+
+/* Horizontal Rule Styling */
+
  hr {
      width: 90%;
      height: 10px;
      background-color: #00adb5;
 }
- .meetup-vid {
-     margin: 10px 0 10px 5px;
+
+/* Gallery Styling */
+
+#gallery {
+    width: 90%;
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
+#gallery img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+/* Contact Page Styling */
+
+
+
  .meetup-vid iframe {
-     width: 50%;
+     
      height: 400px;
      margin-top: 10px;
-     margin-left: 5px;
+     margin-left: 25%;
      margin-bottom: 50px;
 }
  #video h2 {
-     width: 60%;
-     font-size: 60px;
+     width: 60vh;
+     font-size: 40px;
      margin-top: 10px;
-     margin-left: 5px;
+     margin-left: 25%;
 }
- #gallery {
-     width: 90%;
-     clear: both;
-     line-height: 0;
-     column-count: 3;
-     margin-top: 10px;
-     margin-left: 5%;
-     margin-right: 5%;
-}
- #gallery img {
-     width: 100%;
-     border-radius: 20px;
-}
+
  .location {
-     width: 100%;
-     height: auto;
+     
+     height: 750px;
      margin-top: 10px;
+     
 }
  #meetup-map {
-     width: 60vw;
+     width: 70vh;
      height: 440px;
-     float: left;
-     clear: both;
+     margin-left: 25%;
 }
- .rightmap {
-     margin-left: 5px;
-}
+ 
  .textmap {
-     float: left;
-     clear: both;
+     
      width: 350px;
-     margin-left: 5px;
+     margin-left: 25%;
 }
  .textmap h1 {
      font-size: 35px;
@@ -275,12 +307,13 @@
      font-size: 15px;
      margin: 10px 0 10px 0;
 }
+
+/* Contact Page Form Styling */
+
  .form {
-     width: 100%;
-     height: 550px;
+     width: 75%;
      border-radius: 20px;
-     float: left;
-     margin-left: 5px;
+     margin-left: 25%;
 }
  .signup-form {
      margin: 30px 0 0 5px;
@@ -322,19 +355,12 @@
      background-color:#fafafa;
      color:#00adb5;
 }
- .meetup-pic {
-     float: left;
-}
- .meetup-pic img {
-     height: 550px;
-     width: 550px;
-}
+
+
+/* Media Query for Max-Width 1150px */
+
  @media screen and (max-width: 1150px){
-     .textmap {
-         float: left;
-         clear: left;
-         margin-left: 5px;
-    }
+     
      .left-content h1 {
          font-size: 25px;
     }
@@ -348,13 +374,14 @@
          font-size: 20px;
     }
 }
+
+/* Media Query for Max-Width 1000px */
+
  @media screen and (max-width: 1000px){
      #gallery {
          column-count: 2;
     }
-     .form {
-         height: 500px;
-    }
+    
      .main-img img {
          float: left;
          margin-left: 10px;
@@ -363,37 +390,33 @@
          clear: left;
          width: 80%;
     }
-     #video h2 {
-         font-size: 40px;
-    }
-
+   
     .center img {
         height: 250px;
         width: 250px;
     }
-     @media screen and (max-width: 1000px){
-         .navbar li {
-             padding-right: 20px;
-        }
-         #gallery {
-             column-count: 2;
-        }
-         .form {
-             height: 500px;
-        }
-         .main-img img {
-             float: left;
-             margin-left: 10px;
-        }
-         .right-side {
-             clear: left;
-             width: 80%;
-        }
-         #video h2 {
-             font-size: 40px;
-        }
-    }
-}
+
+    .navbar li {
+        padding-right: 20px;
+   }
+    #gallery {
+        column-count: 2;
+   }
+    
+    .main-img img {
+        float: left;
+        margin-left: 10px;
+   }
+    .right-side {
+        clear: left;
+        width: 80%;
+   }
+   
+
+ }
+
+ /* Media Query for Max-Width 896px */
+
  @media screen and (max-width: 896px){
      .social {
          float: left;
@@ -444,8 +467,8 @@
          margin-left: 5px;
     }
      .form {
-         height: 550px;
-         width: 350px;
+         margin-left: 0;
+         margin-top: 30%;
     }
      .meetup-vid iframe {
          float: left;
@@ -468,6 +491,17 @@
      .rightmap {
          margin-left: 5px;
          margin-top: 10px;
+         height: 500px;
+    }
+
+    .location {
+        margin-top: 700px;
+    }
+
+    #meetup-map {
+        margin-left: 5px;
+        width: 30vh;
+        height: 300px;
     }
      .navbar li {
          float: none;
@@ -495,9 +529,7 @@
      .navbar ul {
          background-color: transparent;
     }
-     .form {
-         margin-top: 25%;
-    }
+     
      .social ul li {
          margin-right: 50px;
     }
@@ -510,7 +542,12 @@
      #gallery {
          margin-top: 60px;
     }
+
+
 }
+
+/* Media Query for Max-Width 550px */
+
  @media screen and (max-width: 550px){
      .form {
          height: 400px;
@@ -625,9 +662,7 @@
          margin-top: 5px;
          margin-bottom: 10px;
     }
-     .form {
-         margin-left: 0;
-    }
+     
      .center {
          width: 80%;
     }
