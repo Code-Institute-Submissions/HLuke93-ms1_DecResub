@@ -611,10 +611,10 @@
          margin: 0;
     }
      .logo-mid-img img {
-        width: 25px;
+        width: 250px;
         height:85px;
-         float: left;
-         margin-bottom: 10px;
+        float: left;
+        margin-bottom: 10px;
     }
      .center img {
          margin-left: 5px;
