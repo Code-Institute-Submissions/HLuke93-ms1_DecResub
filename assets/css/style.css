@@ -495,7 +495,7 @@
     }
 
     .location {
-        margin-top: 700px;
+        margin-top: 500px;
     }
 
     #meetup-map {
@@ -568,7 +568,7 @@
     }
      footer {
          height: 75px;
-         margin-top: 0;
+         margin-top: 650px;
     }
      .top-footer h3 {
          margin:0;
@@ -665,6 +665,11 @@
      
      .center {
          width: 80%;
+    }
+
+    .location {
+        height: 350px;
+        margin-top: 10px;
     }
 }
  
