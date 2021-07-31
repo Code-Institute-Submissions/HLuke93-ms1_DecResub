@@ -212,8 +212,9 @@ The Contact for has 4 fields to be completed by the user.
 * **Main Logo**
 
 The Main Logo was tested for:
-1. Responsiveness across all device sizes
-2. The Logo acts as a link to index.html
+
+1. Responsiveness across all device sizes.
+2. The Logo acts as a link to index.html.
 
 **All Tests Passed**
 
@@ -221,11 +222,11 @@ The Main Logo was tested for:
 
 * **Social Icons & Links**
 
-The Social Icons were tested for
+The Social Icons were tested for:
 
-1. Responsiveness across all device sizes
-2. Clicking on the icon opens a new tab and takes the user the the homepage of the social network
-3. Animation on the social icons when the webpage is loaded up
+1. Responsiveness across all device sizes.
+2. Clicking on the icon opens a new tab and takes the user the the homepage of the social network.
+3. Animation on the social icons when the webpage is loaded up.
 4. When the user hovers over an icon , the border bottom in activated.
 
 **All Tests Passed**
@@ -234,11 +235,11 @@ The Social Icons were tested for
 
 * **Main Navigation Menu**
 
-The Main Navigation was tested for
+The Main Navigation was tested for:
 
 1. Responsiveness across all device sizes
-2. Clicking on a link will take the user to that section of the webpage
-3. Animation on the social icons when the webpage is loaded up
+2. Clicking on a link will take the user to that section of the webpage.
+3. Animation on the social icons when the webpage is loaded up.
 4. The Active/Current page ''a tag'' has a background color.
 5. When the user hovers over an icon , the a link background color changes.
 
@@ -248,7 +249,7 @@ The Main Navigation was tested for
 
 * **Main Section**
 
-The Main Section was tested for
+The Main Section was tested for:
 
 1. Responsiveness across all device sizes.
 
@@ -258,7 +259,7 @@ The Main Section was tested for
 
 * **Mid Section**
 
-The Mid Section was tested for
+The Mid Section was tested for:
 
 1. Responsiveness across all device sizes.
 
@@ -268,7 +269,7 @@ The Mid Section was tested for
 
 * **Footer**
 
-The footer was tested for
+The footer was tested for:
 
 1. Responsiveness across all device sizes.
 2. The Links in the footer return the user to the top of the current page.
@@ -280,7 +281,7 @@ The footer was tested for
 
 * **Gallery**
 
-The Gallery page was tested for
+The Gallery page was tested for:
 
 1. Responsiveness across all device sizes.
 2. Column count changes from 3 to 2 when the device width reaches 1000px.
@@ -291,22 +292,27 @@ The Gallery page was tested for
 
 * **Contact/Sign-Up Form**
 
-The Form was tested for
+The Form was tested for:
 
 1. Responsiveness across all device sizes.
-2. The Form must be completed to Submit
-3. Require message displays if a user sumbits an empty fields
+2. The Form must be completed to Submit.
+3. Require message displays if a user sumbits an empty fields.
 4. If no @ symbol entered in the email address field, an error will display to prompt the user to input an correct email format.
 
 **All Tests Passed**
 
 <hr>
 
+* **Meetup Information**
 
+The Meetup information section was tested for:
 
+1. Responsiveness across all device sizes.
+2. Embedded video can be played.
+3. The Map Iframe displays correctly.
+4. The Link to sign-up takes the user to the top of the contact page.
 
-
-
+<hr>
 
 
 ## Bugs
