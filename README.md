@@ -207,6 +207,8 @@ The Contact for has 4 fields to be completed by the user.
 
 ## Testing
 
+# **Testing was performed on Google Chrome and Microsoft Edge**
+
 * **Main Logo**
 
 The Main Logo was tested for:
@@ -269,8 +271,32 @@ The Mid Section was tested for
 The footer was tested for
 
 1. Responsiveness across all device sizes.
-2. The Links in the footer returnthe user to the top of the current page.
+2. The Links in the footer return the user to the top of the current page.
 3. When the user hovers over an link , the border bottom in activated and the font color changes also.
+
+**All Tests Passed**
+
+<hr>
+
+* **Gallery**
+
+The Gallery page was tested for
+
+1. Responsiveness across all device sizes.
+2. Column count changes from 3 to 2 when the device width reaches 1000px.
+
+**All Tests Passed**
+
+<hr>
+
+* **Contact/Sign-Up Form**
+
+The Form was tested for
+
+1. Responsiveness across all device sizes.
+2. The Form must be completed to Submit
+3. Require message displays if a user sumbits an empty fields
+4. If no @ symbol entered in the email address field, an error will display to prompt the user to input an correct email format.
 
 **All Tests Passed**
 
@@ -278,7 +304,9 @@ The footer was tested for
 
 
 
-* Testing was performed on Google Chrome and Microsoft Edge.
+
+
+
 
 
 ## Bugs
