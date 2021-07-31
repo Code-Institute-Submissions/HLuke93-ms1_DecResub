@@ -215,6 +215,8 @@ The Main Logo was tested for:
 
 **All Tests Passed**
 
+<hr>
+
 * **Social Icons & Links**
 
 The Social Icons were tested for
@@ -226,12 +228,58 @@ The Social Icons were tested for
 
 **All Tests Passed**
 
+<hr>
+
+* **Main Navigation Menu**
+
+The Main Navigation was tested for
+
+1. Responsiveness across all device sizes
+2. Clicking on a link will take the user to that section of the webpage
+3. Animation on the social icons when the webpage is loaded up
+4. The Active/Current page ''a tag'' has a background color.
+5. When the user hovers over an icon , the a link background color changes.
+
+**All Tests Passed**
+
+<hr>
+
+* **Main Section**
+
+The Main Section was tested for
+
+1. Responsiveness across all device sizes.
+
+**All Tests Passed**
+
+<hr>
+
+* **Mid Section**
+
+The Mid Section was tested for
+
+1. Responsiveness across all device sizes.
+
+**All Tests Passed**
+
+<hr>
+
+* **Footer**
+
+The footer was tested for
+
+1. Responsiveness across all device sizes.
+2. The Links in the footer returnthe user to the top of the current page.
+3. When the user hovers over an link , the border bottom in activated and the font color changes also.
+
+**All Tests Passed**
+
+<hr>
+
+
 
 * Testing was performed on Google Chrome and Microsoft Edge.
-* Media Queries were added to ensure that the site is responsive across all device sizes.
-* Testing was perfromed on the contact page form to ensure all fields are required.
-* All links on the site have been tested to ensure they are working.
-* All external links to pages were tested to ensure a new tab is opened once clicked.
+
 
 ## Bugs
 
