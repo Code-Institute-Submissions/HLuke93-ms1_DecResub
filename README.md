@@ -8,7 +8,7 @@ However , only recently has the club gone to social media to grow its following 
 
 Users of this site who are interested in joining one of the meetups can do so by completing the sign-up form in the contact section.
 
-You can view the [live website](https://hluke93.github.io/ms1/).
+You can view the [live website](https://hluke93.github.io/ms1/) here.
 
 ![Homepage Demostration across multiple devices](./assets/images/responsive.png)
 
