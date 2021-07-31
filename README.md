@@ -207,7 +207,14 @@ The Contact for has 4 fields to be completed by the user.
 
 ## Testing
 
-* Testing was performed on Google Chrome and MIcrosoft Edge.
+* **Main Logo**
+
+The Main Logo was tested for:
+1. Responsiveness across all device sizes
+2. The Logo acts as a link to index.html
+
+
+* Testing was performed on Google Chrome and Microsoft Edge.
 * Media Queries were added to ensure that the site is responsive across all device sizes.
 * Testing was perfromed on the contact page form to ensure all fields are required.
 * All links on the site have been tested to ensure they are working.
