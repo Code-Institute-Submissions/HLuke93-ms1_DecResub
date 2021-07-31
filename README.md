@@ -213,6 +213,19 @@ The Main Logo was tested for:
 1. Responsiveness across all device sizes
 2. The Logo acts as a link to index.html
 
+**All Tests Passed**
+
+* **Social Icons & Links**
+
+The Social Icons were tested for
+
+1. Responsiveness across all device sizes
+2. Clicking on the icon opens a new tab and takes the user the the homepage of the social network
+3. Animation on the social icons when the webpage is loaded up
+4. When the user hovers over an icon , the border bottom in activated.
+
+**All Tests Passed**
+
 
 * Testing was performed on Google Chrome and Microsoft Edge.
 * Media Queries were added to ensure that the site is responsive across all device sizes.
