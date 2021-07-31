@@ -207,7 +207,7 @@ The Contact for has 4 fields to be completed by the user.
 
 ## Testing
 
-# **Testing was performed on Google Chrome and Microsoft Edge**
+## **Testing was performed on Google Chrome and Microsoft Edge**
 
 * **Main Logo**
 
