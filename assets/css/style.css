@@ -21,7 +21,7 @@ body {
     float: left;
     width: 30%;
     height: 100%;
-    background: none;
+    margin-left: 5%;
     
     cursor: pointer;
 }
@@ -86,17 +86,27 @@ hr {
     width: 90%;
     height: 2vh;
     background-color: #00adb5;
-    
+
 }
-/* Main Section */
+    
+  /* Main section */
+  
+#main-section {
+    height: 70vh;
+    margin-bottom: 5px;
+      
+}
+/* Mid Section */
 
 .main-area {
-    width: 95vw;   
+    width: 95vw; 
+    margin: 10px 0;  
 }
 
 #logo-mid {
     float: left;
     margin-top: 3%;
+    margin-left: 5%;
     
 }
 .logo-mid-img img {
@@ -153,7 +163,7 @@ hr {
     
     border-radius: 40%;
     margin-top: 300px;
-    height: 40vh;
+    height: 50vh;
     width: 30vw;
     
 }
