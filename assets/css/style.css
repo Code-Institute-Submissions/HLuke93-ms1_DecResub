@@ -419,7 +419,11 @@ footer ul {
    }
     .main-img img {
         float: left;
-        margin-left: 5px;
+        margin-left: 5%;
+   }
+
+   #mid-content {
+       margin-left: 5%;
    }
     .left-content {
         float: left;
