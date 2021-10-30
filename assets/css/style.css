@@ -85,7 +85,7 @@ body {
     height: auto;
     margin-right: 10%;
     border-radius: 100px;
-    margin-top: 50px;
+    margin-top: 5%;
 }
 .right-side {
     float: left;
@@ -94,13 +94,13 @@ body {
     margin-left: 5%;
 }
 .right-side h1 {
-    font-size: 35px;
+    font-size: 3rem;
     padding-bottom: 25px;
     margin-left: 5px;
 }
 .right-side p {
     font-family: 'Montserrat' , sans-serif;
-    font-size: 20px;
+    font-size: 1.5rem;
     font-weight: 700;
     letter-spacing: 1px;
     padding-bottom: 10px;
@@ -151,30 +151,51 @@ footer ul {
     font-size: 12px;
     margin-left: 50px;
 }
+
+/* Mid Logo Styling */
+#logo-mid {
+    float: left;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.logo-mid-img img {
+    float: left;
+    width: 30%;
+    height: 100%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+/* Horizontal Rule Styling */
+hr {
+
+    width: 90%;
+    height: 2vh;
+    background-color: #00adb5;
+    
+}
 /* Middle Content Styling */
 #mid-content {
-    width: 100%;
-    height: auto;
+    
     float: left;
     padding-bottom: 50px;
 }
 .center img {
-    width: 300px;
-    height: 300px;
+    width: 35vw;
+    height: 50vh;
     border-radius: 40%;
     padding:10px;
     margin-top: 300px;
-    margin-left: 4%;
+    
 }
 .right-content {
     float: right;
-    width: 30%;
-    margin-right: 50px;
+    width: 25%;
+    margin-right: 5%;
 }
 .left-content {
     float: left;
-    width: 30%;
-    margin-left: 5px;
+    width: 25%;
+    margin-left: 5%;
 }
 .left-content h1 {
     text-transform: uppercase;
@@ -208,23 +229,7 @@ footer ul {
     font-size: 20px;
     height: 300px;
 }
-/* Mid Logo Styling */
-#logo-mid {
-    float: left;
-}
-.logo-mid-img img {
-    width: 400px;
-    height: 120px;
-    float: left;
-    margin-left: 5px;
-    margin-bottom: 10px;
-}
-/* Horizontal Rule Styling */
-hr {
-    width: 90%;
-    height: 10px;
-    background-color: #00adb5;
-}
+
 /* Gallery Styling */
 #gallery {
     width: 90%;
