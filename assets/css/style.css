@@ -141,7 +141,7 @@ hr {
 
 #mid-content {
     
-    float: left;
+    width: 95vw;;
     padding-bottom: 50px;
 }
 
@@ -153,6 +153,8 @@ hr {
     
     border-radius: 40%;
     margin-top: 300px;
+    height: 40vh;
+    width: 30vw;
     
 }
 .right-content {
