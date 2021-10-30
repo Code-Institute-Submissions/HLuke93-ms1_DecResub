@@ -255,18 +255,20 @@ footer ul {
     margin-left: 50px;
 }
 
+
 /* Gallery Styling */
+
 #gallery {
-    width: 90%;
+    width: 95%;
     clear: both;
     line-height: 0;
     column-count: 3;
     margin-top: 10px;
-    margin-left: 5%;
-    margin-right: 5%;
+   
 }
 #gallery img {
-    width: 100%;
+
+    width: 95%;
     border-radius: 20px;
 }
 /* Contact Page Styling */
@@ -528,7 +530,7 @@ footer ul {
         margin-top: 80px;
    }
     #gallery {
-        margin-top: 60px;
+        margin-top: 110px;
    }
 }
 /* Media Query for Max-Width 550px */
