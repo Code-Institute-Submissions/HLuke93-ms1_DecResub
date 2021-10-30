@@ -402,12 +402,20 @@ footer ul {
         float: left;
    }
     .social ul {
-        margin-top: 40px;
+        margin-top: 60px;
         float: left;
         margin-left: 50px;
    }
     .navbar ul {
         margin-top: 60px;
+        width: 30vh;
+        margin-left: 0;
+        
+        
+   }
+
+   .navbar ul li {
+    background-color: #FAF9F6 ;
    }
     .main-img img {
         float: left;
