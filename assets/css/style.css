@@ -79,6 +79,11 @@ body {
 }
 /* Main Section */
 
+.main-area {
+    width: 95vw;
+    
+}
+
 .main-img img {
     float: right;
     width: 40%;
