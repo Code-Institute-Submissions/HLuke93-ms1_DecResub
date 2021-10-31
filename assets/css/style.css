@@ -271,72 +271,48 @@ footer ul {
     width: 95%;
     border-radius: 20px;
 }
-/* Contact Page Styling */
-.meetup-vid iframe {
-    height: 400px;
-    margin-top: 10px;
-    margin-left: 25%;
-    margin-bottom: 50px;
-}
-#video h2 {
-    width: 60vh;
-    font-size: 40px;
-    margin-top: 10px;
-    margin-left: 25%;
-}
-.location {
-    height: 750px;
-    margin-top: 10px;
-}
-#meetup-map {
-    width: 70vh;
-    height: 440px;
-    margin-left: 25%;
-}
-.textmap {
-    width: 350px;
-    margin-left: 25%;
-}
-.textmap h1 {
-    font-size: 35px;
-    margin-bottom: 10px;
-}
-.textmap p {
-    font-size: 15px;
-    margin: 10px 0 10px 0;
-}
+
+
+
+
 /* Contact Page Form Styling */
+
+.contact-section {
+    width: 95vw;
+    height: 60vh;
+    margin-left: 10%;
+    
+}
+
 .form {
-    width: 75%;
+    
     border-radius: 20px;
-    margin-left: 25%;
+    
 }
 .signup-form {
     margin: 30px 0 0 5px;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    color: #00adb5;
     max-width: 400px;
-    position: absolute;
     padding: 30px;
     border-radius: 20%;
     float: left;
 }
 .signup-form h1 {
-    color: #ffffff;
+    color: #00adb5;
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 2rem;
 }
 .text-input {
     background: transparent;
-    color: #fafafa;
+    color: black;
     width: 100%;
     height: 25px;
     margin: 5px 0 0px 0;
-    border: 1px solid #fafafa;
+    border: 1px solid black;
     border-radius: 5px;
 }
 .text-input:hover {
-    border-color: #00adb5;
+    border-color: black;
 }
 .submit-button {
     margin-top:20px;
@@ -351,6 +327,55 @@ footer ul {
     background-color:#fafafa;
     color:#00adb5;
 }
+
+
+.location {
+    width: 40%;
+    float: right;
+    margin-top: 60px;
+    margin-right: 10%;
+}
+
+.location h2 {
+    margin-bottom: 15px;
+    font-size: 2rem;
+}
+
+.location p {
+    color: #00adb5;
+}
+
+.find-us {
+    width: 100%;
+    height: 80px;
+    background-color: #00adb5;
+}
+
+.find-us h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight: 900;
+  
+    
+}
+
+.maps {
+    width: 90vw;
+    height: auto;
+}
+
+.dublin-map {
+    float: left;
+    
+
+}
+
+.galway-map {
+    float: right;
+}
+
 /* Media Query for Max-Width 1150px */
 @media screen and (max-width: 1150px){
     .left-content h1 {
@@ -467,41 +492,7 @@ footer ul {
     .center img {
         margin-left: 5px;
    }
-    .form {
-        margin-left: 0;
-        margin-top: 30%;
-   }
-    .meetup-vid iframe {
-        float: left;
-        width: 80%;
-        margin-left: 5px;
-   }
-    #video h2 {
-        float: left;
-        clear: left;
-        width: 80%;
-        margin-left: 5px;
-   }
-    #video h2 i {
-        display: none;
-   }
-    .textmap {
-        margin-left: 5px;
-        width: 40%;
-   }
-    .rightmap {
-        margin-left: 5px;
-        margin-top: 10px;
-        height: 500px;
-   }
-    .location {
-        margin-top: 500px;
-   }
-    #meetup-map {
-        margin-left: 5px;
-        width: 30vh;
-        height: 300px;
-   }
+    
     .navbar li {
         float: none;
         margin: 0 0 0 5px;
@@ -543,23 +534,7 @@ footer ul {
 }
 /* Media Query for Max-Width 550px */
 @media screen and (max-width: 550px){
-    .form {
-        height: 400px;
-   }
-    .signup-form {
-        width: 350px;
-   }
-    .meetup-pic img {
-        width: 350px;
-        height: 350px;
-   }
-    .signup-form {
-        margin: 0;
-        padding: 0;
-   }
-    .signup-form h1 {
-        margin-left: 40px;
-   }
+    
     footer {
         height: 75px;
         margin-top: 5%;
@@ -640,27 +615,5 @@ footer ul {
         font-size: 15px;
         height: 200px;
    }
-    #video h2 {
-        float: left;
-        width: 70%;
-        font-size: 25px;
-        margin-top: 10px;
-        border-bottom: 1px solid #00adb5;
-   }
-    .textmap img {
-        width: 300px;
-        height: 150px;
-        border-radius: 20px;
-   }
-    .textmap h5 {
-        margin-top: 5px;
-        margin-bottom: 10px;
-   }
-    .center {
-        width: 80%;
-   }
-    .location {
-        height: 350px;
-        margin-top: 10px;
-   }
+    
 }
