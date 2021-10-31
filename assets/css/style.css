@@ -364,6 +364,11 @@ footer ul {
 .maps {
     width: 90vw;
     height: auto;
+    margin-top: 25px;
+}
+
+.maps h1 {
+    font-weight: 900;
 }
 
 .dublin-map {
@@ -373,7 +378,8 @@ footer ul {
 }
 
 .galway-map {
-    float: right;
+    float: left;
+    margin-left: 10px;
 }
 
 /* Media Query for Max-Width 1150px */
@@ -536,6 +542,19 @@ footer ul {
     #gallery {
         margin-top: 110px;
    }
+
+   .contact-section {
+       margin-top: 120px;
+       margin-left: 10px;
+       height: 850px;
+   }
+
+   .location {
+       float: left;
+       clear: both;
+       margin-left: 35px;
+       width: 60%;
+   }
 }
 /* Media Query for Max-Width 550px */
 @media screen and (max-width: 550px){
@@ -619,6 +638,10 @@ footer ul {
         margin: 0;
         font-size: 15px;
         height: 200px;
+   }
+
+   .location {
+       width: 100%;
    }
     
 }
