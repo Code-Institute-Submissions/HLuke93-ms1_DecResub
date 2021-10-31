@@ -643,5 +643,9 @@ footer ul {
    .location {
        width: 100%;
    }
+
+   .maps iframe {
+       width: 300px;
+   }
     
 }
