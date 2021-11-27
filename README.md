@@ -173,12 +173,13 @@ The Contact for has 4 fields to be completed by the user.
 ![Gallery](./assets/read-me/contact-read-me.PNG) 
 
 
-* **Meetup Information**
+* **Our Locations**
 
-This Section of the page invites to user to view a video of a previous French Bulldog Meetup.
-The video gives the user a sample of what goes on at the meetups.
-There is a link to sign up for the next french bulldog meetup which takes the user to the contact page of ths site.
-The location of the meetup is displayed and a google map location iframe.
+This Section of the page provides the user with contact information for the Dublin and Galway Clubs.<br>
+![contact](./assets/read-me/contact-info.PNG)
+It gives a contact number and an email contact.<br>
+The location of the meetup Maps are displayed on a google map location iframe.<br>
+![contact](./assets/read-me/meetup-maps.PNG)
 
 <hr>
 
