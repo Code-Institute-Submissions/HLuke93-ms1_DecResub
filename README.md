@@ -213,12 +213,23 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 
 * **Main Logo**
 
-The Main Logo was tested for:
+<br>
 
-1. Responsiveness across all device sizes.
-2. The Logo acts as a link to index.html.
+* Testing was completed on the following browsers.<br>
+Google Chrome <br>
+Microsoft Edge <br>
+Firefox <br>
+Safari
+<br>
+I have also tested my site on multiple devices such as include:
+<br>
+Galaxy S5 (360 x 640)<br>
+iPad (768 x 1024)<br>
+iPhone 12<br>
+iPad Pro (1024 x 1366)<br>
+HP laptop (1980 x1080)<br>
+<br>
 
-**All Tests Passed**
 
 <hr>
 
@@ -315,6 +326,8 @@ The Meetup information section was tested for:
 4. The Link to sign-up takes the user to the top of the contact page.
 
 <hr>
+
+
 
 
 ## Bugs
