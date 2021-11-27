@@ -215,9 +215,8 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 
 ## Testing
 
-## **Testing was performed on Google Chrome and Microsoft Edge**
+# **Testing was performed on Google Chrome and Microsoft Edge**
 
-* **Main Logo**
 
 <br>
 
@@ -236,6 +235,12 @@ iPad Pro (1024 x 1366)<br>
 HP laptop (1980 x1080)<br>
 <br>
 
+# Manual Testing
+<br>
+
+![testing](./assets/read-me/manual-testing.PNG)
+
+<br>
 
 <hr>
 
