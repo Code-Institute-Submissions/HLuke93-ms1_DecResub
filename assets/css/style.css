@@ -573,16 +573,19 @@ footer ul {
 }
 /* Media Query for Max-Width 550px */
 @media screen and (max-width: 550px){
+
+   
     
     footer {
         height: 75px;
         margin-top: 5%;
+    
    }
     .top-footer h3 {
-        margin:0;
+        margin-left: 5%;
    }
     footer ul {
-        margin: 0;
+        margin-left: 5%;
         float: left;
    }
     .top-footer ul li {
