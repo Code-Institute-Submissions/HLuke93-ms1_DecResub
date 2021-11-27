@@ -180,10 +180,19 @@ The Contact for has 4 fields to be completed by the user.
 <br>
 
 This Section of the page provides the user with contact information for the Dublin and Galway Clubs.<br>
+
+<br>
+
 ![contact](./assets/read-me/contact-info.PNG)<br>
+<br>
 It gives a contact number and an email contact.<br>
+<br>
 The location of the meetup Maps are displayed on a google map location iframe.<br>
+<br>
+
 ![contact](./assets/read-me/meetup-maps.PNG)
+
+<br>
 
 <br>
 
@@ -215,7 +224,7 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 
 ## Testing
 
-# **Testing was performed on Google Chrome and Microsoft Edge**
+# Testing was performed on Google Chrome and Microsoft Edge
 
 
 <br>
