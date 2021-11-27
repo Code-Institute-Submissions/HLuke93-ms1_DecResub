@@ -30,9 +30,10 @@ You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 * The approach I took designing this website was to display clear , concise text so the user could retain information.
 * To do this I added 5 questions and answers on the homepage , some images , a video and a meetup location map.
 * I chose 2 fonts when designing this site , Open+Sans and Monserrat , both taken from [Google Fonts](https://fonts.google.com/).
-* The color scheme I went with during the design was rgb(66, 66, 66) for the Nav Bar and Footer with color: #fff for the links.
-  I also used a #00adb5 color for borders and active links.
-* The Default font color was #000000 , However this was amended to rgb(66, 66, 66) to add more consistancy to the site.
+* The color scheme I went with during the design was rgb(66, 66, 66) ![Nav Color](./assets/read-me/navcolor.png) for the Nav Bar and Footer with color: #fff (White) for the links.
+  I also used a #00adb5 ![Green Color](./assets/read-me/greencolor.png) color for borders and active links.
+* The Default font color was #000000 , However this was amended to rgb(66, 66, 66) ![Font Color](./assets/read-me/navcolor.png) to add more consistancy to the site.
+* A Background Color of ##FAF9F6 was added.
 
 
 
