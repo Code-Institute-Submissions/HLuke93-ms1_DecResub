@@ -169,17 +169,23 @@ The Contact for has 4 fields to be completed by the user.
 3. Email Address
 4. Frenchies name
 
+<br>
 
 ![Gallery](./assets/read-me/contact-read-me.PNG) 
 
+<br>
 
 * **Our Locations**
+
+<br>
 
 This Section of the page provides the user with contact information for the Dublin and Galway Clubs.<br>
 ![contact](./assets/read-me/contact-info.PNG)<br>
 It gives a contact number and an email contact.<br>
 The location of the meetup Maps are displayed on a google map location iframe.<br>
 ![contact](./assets/read-me/meetup-maps.PNG)
+
+<br>
 
 <hr>
 
