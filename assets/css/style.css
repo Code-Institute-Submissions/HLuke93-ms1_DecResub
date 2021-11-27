@@ -407,6 +407,7 @@ footer ul {
 
 	.left-content p {
 		font-size: 20px;
+		height: auto;
 	}
 
 	.right-content h1 {
