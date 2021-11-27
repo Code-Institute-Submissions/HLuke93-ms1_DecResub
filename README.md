@@ -216,9 +216,9 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 * [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) were used to validate the HTML and CSS used.
 
 
-## Testing
+# Testing
 
-# Testing was performed on Google Chrome and Microsoft Edge
+## Testing was performed on Google Chrome and Microsoft Edge
 
 
 <br>
