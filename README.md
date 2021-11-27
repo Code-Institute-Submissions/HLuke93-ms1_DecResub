@@ -58,7 +58,7 @@ You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 Located at the Top of the page, The French Bulldog Logo printed in black and white.
 The Logo also acts as a clickable link which will direct the user back to the homepage.
 
-![Main Logo Image](./assets/read-me/logo.png)
+![Main Logo Image](./assets/images/logo.png)
 
 <hr>
 
