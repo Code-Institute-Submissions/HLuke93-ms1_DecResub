@@ -300,7 +300,7 @@ footer ul {
 
 .contact-section {
 	width: 95vw;
-	height: 60vh;
+	height: 500px;
 }
 
 .form {
@@ -354,7 +354,7 @@ footer ul {
 .location {
 	width: 40%;
 	float: right;
-	margin-top: 60px;
+	margin-top: 150px;
 	margin-right: 10%;
 }
 
@@ -392,11 +392,13 @@ footer ul {
 
 .dublin-map {
 	float: left;
+	
 }
 
 .galway-map {
 	float: left;
 	margin-left: 10px;
+	clear: both;
 }
 
 /* Media Query for Max-Width 1150px */
@@ -416,6 +418,21 @@ footer ul {
 
 	.right-content p {
 		font-size: 20px;
+	}
+
+	
+	.location {
+		
+		float: left;
+		margin-left: 5%;
+		margin-bottom: 20px;
+		
+	}
+
+	.find-us h1 {
+		float: left;
+		margin-left: -50%;
+		
 	}
 }
 /* Media Query for Max-Width 1000px */
@@ -592,14 +609,14 @@ footer ul {
 	.contact-section {
 		margin-top: 120px;
 		margin-left: 10px;
-		height: 850px;
+		height: 450px;
 	}
 
-	.location {
+
+	.find-us h1 {
 		float: left;
-		clear: both;
-		margin-left: 35px;
-		width: 60%;
+		margin-left: -50%;
+		
 	}
 
 	.logo img {
@@ -719,9 +736,7 @@ footer ul {
 		height: 200px;
 	}
 
-	.location {
-		width: 100%;
-	}
+
 
 	.maps iframe {
 		width: 300px;

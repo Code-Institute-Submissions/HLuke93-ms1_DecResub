@@ -48,7 +48,12 @@ You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 
 ![Mobile Version](./assets/read-me/Mobile-Layout.png)
 
+<br>
 
+* Please note.... Contact Page was changed after wireframes were created.<br>
+* The Cotact Page Layout and Items are not as per Original Wireframe.
+
+<br>
 
 
 
@@ -126,24 +131,6 @@ There is also a center image of a French Bulldog.
 
 <hr>
 
-
-
-* **Meetup Information**
-
-This Section of the page invites to user to view a video of a previous French Bulldog Meetup.
-The video gives the user a sample of what goes on at the meetups.
-There is a link to sign up for the next french bulldog meetup which takes the user to the contact page of ths site.
-The location of the meetup is displayed and a google map location iframe.
-
-<hr>
-
-
-![Youtube Video](./assets/read-me/read-me-video.PNG) ![Google Map](./assets/read-me/read-me-map.PNG)
-
-<hr>
-
-
-
 * **Footer**
 
 The Footer is located at the bottom of the page and displays the text ''Copyright 2021 Fifi the Frenchie''. This is not a legitimate copyright name , it is used for display purposes only.
@@ -184,6 +171,20 @@ The Contact for has 4 fields to be completed by the user.
 
 
 ![Gallery](./assets/read-me/contact-read-me.PNG) 
+
+
+* **Meetup Information**
+
+This Section of the page invites to user to view a video of a previous French Bulldog Meetup.
+The video gives the user a sample of what goes on at the meetups.
+There is a link to sign up for the next french bulldog meetup which takes the user to the contact page of ths site.
+The location of the meetup is displayed and a google map location iframe.
+
+<hr>
+
+
+![Youtube Video](./assets/read-me/read-me-video.PNG) ![Google Map](./assets/read-me/read-me-map.PNG)
+
 
 <hr>
 
