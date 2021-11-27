@@ -10,7 +10,7 @@ Users of this site who are interested in joining one of the meetups can do so by
 
 You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 
-![Homepage Demostration across multiple devices](./assets/images/responsive.png)
+![Homepage Demostration across multiple devices](./assets/read-me/responsive.png)
 
 
 
@@ -40,12 +40,12 @@ You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 
 ### Desktop Pages
 
-![Desktop Version](./assets/images/Desktop-Layout.png)
+![Desktop Version](./assets/read-me/Desktop-Layout.png)
 
 
 ### Mobile Pages
 
-![Mobile Version](./assets/images/Mobile-Layout.png)
+![Mobile Version](./assets/read-me/Mobile-Layout.png)
 
 
 
@@ -58,7 +58,7 @@ You can view the [Live Website Here](https://hluke93.github.io/ms1/).
 Located at the Top of the page, The French Bulldog Logo printed in black and white.
 The Logo also acts as a clickable link which will direct the user back to the homepage.
 
-![Main Logo Image](./assets/images/logo.png)
+![Main Logo Image](./assets/read-me/logo.png)
 
 <hr>
 
@@ -70,7 +70,7 @@ To the left of the Main Logo is 3 Social Links. Tik Tok , Instagram and Facebook
 All 3 Links open in a new tab to the sites.
 The Instagram link , links directly to the Dublin French Bulldog Instagram Page.
 
-![Social Icon Images](./assets/images/social-icons.png)
+![Social Icon Images](./assets/read-me/social-icons.png)
 
 
 <hr>
@@ -84,7 +84,7 @@ The current active page link is highlighted in the navbar. When the user hovers 
 different link , the link is highlighted also.
 
 
-![Navigation Bar](./assets/images/navbar.PNG)
+![Navigation Bar](./assets/read-me/navbar.PNG)
 
 <hr>
 
@@ -101,7 +101,7 @@ Alongside this questions is an image of a French Bulldog with a Big Smile on his
 <hr>
 
 
-![Main Section Image](./assets/images/main-section-img.PNG)
+![Main Section Image](./assets/read-me/main-section-img.PNG)
 
 <hr>
 
@@ -121,7 +121,7 @@ There is also a center image of a French Bulldog.
 
 
 
-![Mid Section Image](./assets/images/mid-content-readme.PNG)
+![Mid Section Image](./assets/read-me/mid-content-readme.PNG)
 
 <hr>
 
@@ -137,7 +137,7 @@ The location of the meetup is displayed and a google map location iframe.
 <hr>
 
 
-![Youtube Video](./assets/images/read-me-video.PNG) ![Google Map](./assets/images/read-me-map.PNG)
+![Youtube Video](./assets/read-me/read-me-video.PNG) ![Google Map](./assets/read-me/read-me-map.PNG)
 
 <hr>
 
@@ -152,7 +152,7 @@ All 4 of these links take the user back to the homepage.
 
 
 
-![Footer](./assets/images/footer-read-me.PNG)
+![Footer](./assets/read-me/footer-read-me.PNG)
 
 <hr>
 
@@ -166,7 +166,7 @@ into the type of companion Frenchies are.
 
 
 
-![Gallery](./assets/images/gallery-read-me.PNG) 
+![Gallery](./assets/read-me/gallery-read-me.PNG) 
 
 <hr>
 
@@ -182,7 +182,7 @@ The Contact for has 4 fields to be completed by the user.
 4. Frenchies name
 
 
-![Gallery](./assets/images/contact-read-me.PNG) 
+![Gallery](./assets/read-me/contact-read-me.PNG) 
 
 <hr>
 
@@ -330,7 +330,7 @@ No Errors found when testing through the official W3C validator.
 <hr>
 
 
-![Warning](./assets/images/html-validator.PNG)
+![Warning](./assets/read-me/html-validator.PNG)
 
 <hr>
 
@@ -342,7 +342,7 @@ No Errors found when testing through the official Jigsaw validator.
 <hr>
 
 
-![CSS](./assets/images/css-validator.PNG) 
+![CSS](./assets/read-me/css-validator.PNG) 
 
 
 <hr>
@@ -355,7 +355,7 @@ Webpage was run through Lighthouse in Chrome Devtools to test acessibility
 <hr>
 
 
-![CSS](./assets/images/accessibility.PNG) 
+![CSS](./assets/read-me/accessibility.PNG) 
 
 
 <hr>
