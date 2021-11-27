@@ -218,8 +218,6 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 
 # Testing
 
-## Testing was performed on Google Chrome and Microsoft Edge
-
 
 <br>
 
