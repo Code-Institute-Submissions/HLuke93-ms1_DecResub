@@ -200,12 +200,6 @@ The location of the meetup Maps are displayed on a google map location iframe.<b
 
 
 
-
-<hr>
-
-
-
-
 ## Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) was used for the HTML site markup
